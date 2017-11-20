@@ -1,8 +1,5 @@
 
-/*Name: Gautham Brahma Ponnaganti.
- *Course No.: CS5323
- *Assignment title:OS Project PHASE II
- *Date:4-28-2016
+/*Author: Gautham Brahma Ponnaganti.
  *Global Variables:
  *-errorCode: This can be set by a piece of code where the error occurs and later when the error handler class 
  *calls this code it can keep track of which error by using this variable.

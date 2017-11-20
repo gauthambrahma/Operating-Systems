@@ -1,7 +1,4 @@
-/*Name: Gautham Brahma Ponnaganti.
- *Course No.: CS5323
- *Assignment title:OS Project PHASE II
- *Date:4-28-2016
+/*Author: Gautham Brahma Ponnaganti.
  *Global Variables:
  *-JobID: Used to keep track of job. It will always be 1 in this case because there is no multiprogramming and we give
  *only one job as input once. 

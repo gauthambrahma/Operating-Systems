@@ -1,8 +1,5 @@
 
-/*Name: Gautham Brahma Ponnaganti.
- *Course No.: CS5323
- *Assignment title:OS Project PHASE III
- *Date:4-28-2016
+/*Author: Gautham Brahma Ponnaganti.
  *Global Variables:
  *-errorHandler: this is used to invoke the error handler module.
  *-Memory: This is used to get a reference of memory object. 

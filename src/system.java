@@ -1,8 +1,5 @@
 
-/*Name: Gautham Brahma Ponnaganti.
- *Course No.: CS5323
- *Assignment title:OS Project PHASE II
- *Date:4-28-2016
+/*Author: Gautham Brahma Ponnaganti.
  *Global Variables:
  *-ErrorHandler:instance of error handler to trap errors if any that occurs.
  *
