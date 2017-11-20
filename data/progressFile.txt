@@ -1,0 +1,3622 @@
+
+JobID loaded(DEC):                       1              
+Clock value during load(Decimal):        14660317       
+------------------------------------------------------
+JobID loaded(DEC):                       2              
+Clock value during load(Decimal):        14660317       
+------------------------------------------------------
+JobID loaded(DEC):                       3              
+Clock value during load(Decimal):        14660317       
+------------------------------------------------------
+**WARNING: JOBID(DEC):4 Code:51 Description:MISSING **FIN
+------------------------------------------------------
+**ERROR: JOBID(DEC):5 Code:6 Description:Invalid Trace flag.
+------------------------------------------------------
+JobID loaded(DEC):                       6              
+Clock value during load(Decimal):        14660317       
+------------------------------------------------------
+JobID loaded(DEC):                       7              
+Clock value during load(Decimal):        14660317       
+------------------------------------------------------
+JobID loaded(DEC):                       8              
+Clock value during load(Decimal):        14660317       
+------------------------------------------------------
+**WARNING: JOBID(DEC):9 Code:52 Description:Double **DATA
+------------------------------------------------------
+JobID loaded(DEC):                       9              
+Clock value during load(Decimal):        14660317       
+------------------------------------------------------
+JobID loaded(DEC):                       10             
+Clock value during load(Decimal):        14660317       
+------------------------------------------------------
+JobID loaded(DEC):                       11             
+Clock value during load(Decimal):        14660317       
+------------------------------------------------------
+**WARNING: JOBID(DEC):12 Code:51 Description:MISSING **FIN
+------------------------------------------------------
+JobID loaded(DEC):                       13             
+Clock value during load(Decimal):        14660317       
+------------------------------------------------------
+JobID loaded(DEC):                       14             
+Clock value during load(Decimal):        14660317       
+------------------------------------------------------
+JobID loaded(DEC):                       15             
+Clock value during load(Decimal):        14660317       
+------------------------------------------------------
+JobID loaded(DEC):                       16             
+Clock value during load(Decimal):        14660317       
+------------------------------------------------------
+JobID loaded(DEC):                       17             
+Clock value during load(Decimal):        14660317       
+------------------------------------------------------
+JobID loaded(DEC):                       18             
+Clock value during load(Decimal):        14660317       
+------------------------------------------------------
+JobID loaded(DEC):                       19             
+Clock value during load(Decimal):        14660317       
+------------------------------------------------------
+JobID loaded(DEC):                       20             
+Clock value during load(Decimal):        14660317       
+------------------------------------------------------
+JobID loaded(DEC):                       21             
+Clock value during load(Decimal):        14660317       
+------------------------------------------------------
+**WARNING: JOBID(DEC):22 Code:53 Description:MISSING **DATA
+------------------------------------------------------
+JobID loaded(DEC):                       22             
+Clock value during load(Decimal):        14660317       
+------------------------------------------------------
+JobID loaded(DEC):                       23             
+Clock value during load(Decimal):        14660317       
+------------------------------------------------------
+JobID loaded(DEC):                       24             
+Clock value during load(Decimal):        14660317       
+------------------------------------------------------
+JobID loaded(DEC):                       25             
+Clock value during load(Decimal):        14660317       
+------------------------------------------------------
+JobID loaded(DEC):                       26             
+Clock value during load(Decimal):        14660317       
+------------------------------------------------------
+JobID loaded(DEC):                       27             
+Clock value during load(Decimal):        14660317       
+------------------------------------------------------
+JobID loaded(DEC):                       28             
+Clock value during load(Decimal):        14660317       
+------------------------------------------------------
+JobID loaded(DEC):                       29             
+Clock value during load(Decimal):        14660317       
+------------------------------------------------------
+JobID loaded(DEC):                       30             
+Clock value during load(Decimal):        14660317       
+------------------------------------------------------
+JobID loaded(DEC):                       31             
+Clock value during load(Decimal):        14660317       
+------------------------------------------------------
+JobID loaded(DEC):                       32             
+Clock value during load(Decimal):        14660317       
+------------------------------------------------------
+JobID loaded(DEC):                       33             
+Clock value during load(Decimal):        14660317       
+------------------------------------------------------
+JobID loaded(DEC):                       34             
+Clock value during load(Decimal):        14660317       
+------------------------------------------------------
+JobID loaded(DEC):                       35             
+Clock value during load(Decimal):        14660317       
+------------------------------------------------------
+JobID loaded(DEC):                       36             
+Clock value during load(Decimal):        14660317       
+------------------------------------------------------
+JobID loaded(DEC):                       37             
+Clock value during load(Decimal):        14660317       
+------------------------------------------------------
+JobID loaded(DEC):                       38             
+Clock value during load(Decimal):        14660317       
+------------------------------------------------------
+JobID loaded(DEC):                       39             
+Clock value during load(Decimal):        14660317       
+------------------------------------------------------
+JobID loaded(DEC):                       40             
+Clock value during load(Decimal):        14660317       
+------------------------------------------------------
+JobID loaded(DEC):                       41             
+Clock value during load(Decimal):        14660317       
+------------------------------------------------------
+JobID loaded(DEC):                       42             
+Clock value during load(Decimal):        14660317       
+------------------------------------------------------
+**ERROR: JOBID(DEC):43 Code:12 Description:Missing Program
+------------------------------------------------------
+JobID loaded(DEC):                       44             
+Clock value during load(Decimal):        14660317       
+------------------------------------------------------
+JobID loaded(DEC):                       45             
+Clock value during load(Decimal):        14660317       
+------------------------------------------------------
+Completed Execution for jobID(DEC):      8              
+Current value of the clock(Decimal):     585            
+clock at load time(hex):                 69             
+Clock at termination time(hex):          249            
+Number of chances at the CPU:            2              
+job Output(Hex):
+  00000012   00000000   00000000   00000000
+Nature of termination:                   Normal         
+Runtime(Decimal):                        73             
+TurnAroundTime(Decimal):                 480            
+Execution Time(Decimal):                 73             
+Page Fault Handling Time(Decimal):       50             
+------------------------------------------------------
+
+JobID loaded(DEC):                       46             
+Clock value during load(Decimal):        14660903       
+------------------------------------------------------
+JobID loaded(DEC):                       47             
+Clock value during load(Decimal):        14660903       
+------------------------------------------------------
+Completed Execution for jobID(DEC):      10             
+Current value of the clock(Decimal):     586            
+clock at load time(hex):                 9e             
+Clock at termination time(hex):          24a            
+Number of chances at the CPU:            2              
+job Output(Hex):
+  00000078   00000000   00000000   00000000
+Nature of termination:                   Normal         
+Runtime(Decimal):                        75             
+TurnAroundTime(Decimal):                 428            
+Execution Time(Decimal):                 75             
+Page Fault Handling Time(Decimal):       45             
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      7              
+Current value of the clock(Decimal):     637            
+clock at load time(hex):                 5e             
+Clock at termination time(hex):          27d            
+Number of chances at the CPU:            3              
+job Output(Hex):
+  0000001c   00000000   00000000   00000000
+Nature of termination:                   Normal         
+Runtime(Decimal):                        88             
+TurnAroundTime(Decimal):                 543            
+Execution Time(Decimal):                 88             
+Page Fault Handling Time(Decimal):       35             
+------------------------------------------------------
+
+JobID loaded(DEC):                       48             
+Clock value during load(Decimal):        14660955       
+------------------------------------------------------
+Completed Execution for jobID(DEC):      13             
+Current value of the clock(Decimal):     649            
+clock at load time(hex):                 0              
+Clock at termination time(hex):          289            
+Number of chances at the CPU:            0              
+job Output(Hex):
+Nature of termination:                   Normal         
+Runtime(Decimal):                        0              
+TurnAroundTime(Decimal):                 649            
+Execution Time(Decimal):                 0              
+Page Fault Handling Time(Decimal):       0              
+------------------------------------------------------
+
+**ERROR: JOBID(DEC):49 Code:5 Description:Illegal Batch Character.
+------------------------------------------------------
+**ERROR: JOBID(DEC):49 Code:11 Description:Illegal batch format
+------------------------------------------------------
+JobID loaded(DEC):                       50             
+Clock value during load(Decimal):        14660967       
+------------------------------------------------------
+Completed Execution for jobID(DEC):      11             
+Current value of the clock(Decimal):     954            
+clock at load time(hex):                 27e            
+Clock at termination time(hex):          3ba            
+Number of chances at the CPU:            4              
+job Output(Hex):
+  00000005   0000000a   0000000c   00000008
+  0000000f   00000004   00000002   00000003
+Nature of termination:                   Normal         
+Runtime(Decimal):                        148            
+TurnAroundTime(Decimal):                 316            
+Execution Time(Decimal):                 148            
+Page Fault Handling Time(Decimal):       65             
+------------------------------------------------------
+
+JobID loaded(DEC):                       51             
+Clock value during load(Decimal):        14661267       
+------------------------------------------------------
+Completed Execution for jobID(DEC):      15             
+Current value of the clock(Decimal):     1030           
+clock at load time(hex):                 2c0            
+Clock at termination time(hex):          406            
+Number of chances at the CPU:            4              
+job Output(Hex):
+  00000003   00000003   00000005   00000000
+  00000005   00000002   00000007   00000023
+Nature of termination:                   Normal         
+Runtime(Decimal):                        120            
+TurnAroundTime(Decimal):                 326            
+Execution Time(Decimal):                 120            
+Page Fault Handling Time(Decimal):       65             
+------------------------------------------------------
+
+**WARNING: JOBID(DEC):52 Code:51 Description:MISSING **FIN
+------------------------------------------------------
+JobID loaded(DEC):                       53             
+Clock value during load(Decimal):        14661340       
+------------------------------------------------------
+JobID loaded(DEC):                       54             
+Clock value during load(Decimal):        14661340       
+------------------------------------------------------
+Completed Execution for jobID(DEC):      17             
+Current value of the clock(Decimal):     1606           
+clock at load time(hex):                 445            
+Clock at termination time(hex):          646            
+Number of chances at the CPU:            11             
+job Output(Hex):
+  00000037   00000000   00000000   00000000
+Memory Dump:
+  00000008   00000004   00000007   00001D09
+  00000333   00002EE1   00000900   00000001
+  00005111   00000000   00000000   00000000
+  00000000   00000000   00000000   00000000
+  0220001F   1000001C   0C100000   00000000
+  00001D09   00000000   00000000   00000000
+  00000000   00000000   00000000   00000000
+  00000001   00000002   00000000   00000000
+  01500040   02500043   0125004C   02200045
+  04500047   0B50001B   01100043   03100041
+  02100044   01310048   02300046   04100047
+  0A100018   01500043   01100044   0125004C
+  00000000   00000001   00000004   00000000
+  00000002   00000006   00000003   0000000A
+  00000001   00000006   00000003   00000004
+  00000002   00000200   00000004   00003333
+  0110000E   01200012   0320000F   81320018
+  8532001E   02300013   03100013   02200012
+  04200011   09200001   01400010   02140014
+  10000014   00000000   00000000   00000001
+  00000003   00000005   00000003   00000010
+  00000000   00000000   00000000   00000000
+  00000018   00000002   00000001   00000003
+  00000004   00000005   0000001E   00000002
+  0110000F   01200011   0F000013   0F000017
+  0F00001B   01300012   04310013   0A30000A
+  01410013   02400012   03100010   04200010
+  0A200005   10000012   00000000   00000000
+  00000001   0000000C   00000346   00000024
+  000002CD   000000AF   000001BD   00000004
+  000000FF   00000346   0000000F   00000123
+  0000021A   00000067   000002CA   00000000
+  0F000019   0110001A   09100018   01000019
+  0121001E   0C320000   0300001B   0C300014
+  0400001B   0C300014   0500001B   0C300014
+  0600001B   0C300014   0100001D   04000019
+  0C300014   0D00001B   0C300014   0E00001B
+  0200001C   10000019   0F000019   0C300001
+  00000000   00000000   FFFFFFFF   00000000
+  00000000   00000000   00000006   00000008
+  0F00000E   0120000C   0110000E   0B100009
+  09100009   0210000D   0520000D   0410000C
+  0A100005   02200014   10000014   00000000
+  00000001   0000000c   00000016   00000000
+  00000000   00000000   00000000   00000000
+  00000000   00000000   00000000   00000000
+  00000000   00000000   00000000   00000000
+  00000000   00000000   00000000   00000000
+  01F00018   01D00017   01100016   021F0000
+  03F00016   021F0000   03F00016   0210001B
+  0210001C   0130001C   0330001B   023F0000
+  03F00016   0160001C   0260001B   0230001C
+  04D00016   0AD0000A   90000018   90000019
+  9000001A   00000000   00000001   0000000A
+  0000001D   00000021   00000025   00000003
+  00000005   00000001   00000001   00000002
+  0F00000F   0120000D   0110000F   0B100009
+  09100009   0F000013   03200013   0410000E
+  0A100005   02200017   10000017   11000000
+  00000000   00000000   00000001   0000000A
+  00000000   00000000   00000000   0000000A
+  00000000   00000000   00000000   00000037
+  00000000   00000000   00000000   00000000
+  00000000   00000000   00000000   00000000
+
+Nature of termination:                   Normal         
+Runtime(Decimal):                        190            
+TurnAroundTime(Decimal):                 513            
+Execution Time(Decimal):                 190            
+Page Fault Handling Time(Decimal):       65             
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      14             
+Current value of the clock(Decimal):     1614           
+clock at load time(hex):                 28a            
+Clock at termination time(hex):          64e            
+Number of chances at the CPU:            18             
+job Output(Hex):
+  00000001   00000002   00000003   00000003
+  00000002   00000002   00000003   00000006
+  00000003   00000004   00000004   80000003
+  00000004   00000006   00000003   00000007
+  00000005   00000006   00000055   00000055
+  00000006   00000004   00000002   80000006
+  00000000   00000004   00000007   00000000
+  00000001   00000001   00000001   00000000
+  00000002   00000003   00000007   00000000
+Memory Dump:
+  00000008   00000004   00000007   00001D09
+  00000333   00002EE1   00000900   00000001
+  00005111   00000000   00000000   00000000
+  00000000   00000000   00000000   00000000
+  0220001F   1000001C   0C100000   00000000
+  00001D09   00000000   00000000   00000000
+  00000000   00000000   00000000   00000000
+  00000001   00000002   00000000   00000000
+  01500040   02500043   0125004C   02200045
+  04500047   0B50001B   01100043   03100041
+  02100044   01310048   02300046   04100047
+  0A100018   01500043   01100044   0125004C
+  00000000   00000001   00000004   00000000
+  00000002   00000006   00000003   0000000A
+  00000001   00000006   00000003   00000004
+  00000002   00000200   00000004   00003333
+  0110000E   01200012   0320000F   81320018
+  8532001E   02300013   03100013   02200012
+  04200011   09200001   01400010   02140014
+  10000014   00000000   00000000   00000001
+  00000003   00000005   00000003   00000010
+  00000000   00000000   00000000   00000000
+  00000018   00000002   00000001   00000003
+  00000004   00000005   0000001E   00000002
+  0110000F   01200011   0F000013   0F000017
+  0F00001B   01300012   04310013   0A30000A
+  01410013   02400012   03100010   04200010
+  0A200005   10000012   00000000   00000000
+  00000001   0000000C   00000346   00000024
+  000002CD   000000AF   000001BD   00000004
+  000000FF   00000346   0000000F   00000123
+  0000021A   00000067   000002CA   00000000
+  0F000019   0110001A   09100018   01000019
+  0121001E   0C320000   0300001B   0C300014
+  0400001B   0C300014   0500001B   0C300014
+  0600001B   0C300014   0100001D   04000019
+  0C300014   0D00001B   0C300014   0E00001B
+  0200001C   10000019   0F000019   0C300001
+  00000000   00000000   FFFFFFFF   00000000
+  00000000   00000000   00000006   00000008
+  0F00000E   0120000C   0110000E   0B100009
+  09100009   0210000D   0520000D   0410000C
+  0A100005   02200014   10000014   00000000
+  00000001   0000000c   00000016   00000000
+  00000000   00000000   00000000   00000000
+  00000000   00000000   00000000   00000000
+  00000000   00000000   00000000   00000000
+  00000000   00000000   00000000   00000000
+  01F00018   01D00017   01100016   021F0000
+  03F00016   021F0000   03F00016   0210001B
+  0210001C   0130001C   0330001B   023F0000
+  03F00016   0160001C   0260001B   0230001C
+  04D00016   0AD0000A   90000018   90000019
+  9000001A   00000000   00000001   0000000A
+  0000001D   00000021   00000025   00000003
+  00000005   00000001   00000001   00000002
+  0F00000F   0120000D   0110000F   0B100009
+  09100009   0F000013   03200013   0410000E
+  0A100005   02200017   10000017   11000000
+  00000000   00000000   00000001   0000000A
+  00000000   00000000   00000000   0000000A
+  00000000   00000000   00000000   00000037
+  00000000   00000000   00000000   00000000
+  00000000   00000000   00000000   00000000
+
+Nature of termination:                   Normal         
+Runtime(Decimal):                        459            
+TurnAroundTime(Decimal):                 964            
+Execution Time(Decimal):                 459            
+Page Fault Handling Time(Decimal):       115            
+------------------------------------------------------
+
+JobID loaded(DEC):                       55             
+Clock value during load(Decimal):        14661907       
+------------------------------------------------------
+JobID loaded(DEC):                       56             
+Clock value during load(Decimal):        14661907       
+------------------------------------------------------
+Completed Execution for jobID(DEC):      3              
+Current value of the clock(Decimal):     2028           
+clock at load time(hex):                 27             
+Clock at termination time(hex):          7ec            
+Number of chances at the CPU:            2              
+job Output(Hex):
+  00000000   00000000   00000000   00000037
+Nature of termination:                   Normal         
+Runtime(Decimal):                        151            
+TurnAroundTime(Decimal):                 1989           
+Execution Time(Decimal):                 151            
+Page Fault Handling Time(Decimal):       65             
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      6              
+Current value of the clock(Decimal):     2227           
+clock at load time(hex):                 4f             
+Clock at termination time(hex):          8b3            
+Number of chances at the CPU:            6              
+job Output(Hex):
+  00000346   00000024   000002CD   000000AF
+Nature of termination:                   Normal         
+Runtime(Decimal):                        200            
+TurnAroundTime(Decimal):                 2148           
+Execution Time(Decimal):                 200            
+Page Fault Handling Time(Decimal):       35             
+------------------------------------------------------
+
+JobID loaded(DEC):                       57             
+Clock value during load(Decimal):        14662519       
+------------------------------------------------------
+Completed Execution for jobID(DEC):      16             
+Current value of the clock(Decimal):     2684           
+clock at load time(hex):                 3ea            
+Clock at termination time(hex):          a7c            
+Number of chances at the CPU:            5              
+job Output(Hex):
+  9f280000   00000000   00000000   00000000
+Nature of termination:                   Normal         
+Runtime(Decimal):                        228            
+TurnAroundTime(Decimal):                 1682           
+Execution Time(Decimal):                 228            
+Page Fault Handling Time(Decimal):       65             
+------------------------------------------------------
+
+JobID loaded(DEC):                       58             
+Clock value during load(Decimal):        14662964       
+------------------------------------------------------
+Completed Execution for jobID(DEC):      21             
+Current value of the clock(Decimal):     2854           
+clock at load time(hex):                 a7d            
+Clock at termination time(hex):          b26            
+Number of chances at the CPU:            2              
+job Output(Hex):
+  00000012   00000000   00000000   00000000
+Nature of termination:                   Normal         
+Runtime(Decimal):                        73             
+TurnAroundTime(Decimal):                 169            
+Execution Time(Decimal):                 73             
+Page Fault Handling Time(Decimal):       80             
+------------------------------------------------------
+
+**ERROR: JOBID(DEC):59 Code:12 Description:Missing Program
+------------------------------------------------------
+Completed Execution for jobID(DEC):      22             
+Current value of the clock(Decimal):     3027           
+clock at load time(hex):                 b27            
+Clock at termination time(hex):          bd3            
+Number of chances at the CPU:            4              
+job Output(Hex):
+  0000001b   00000000   00000000   00000000
+Nature of termination:                   Normal         
+Runtime(Decimal):                        155            
+TurnAroundTime(Decimal):                 172            
+Execution Time(Decimal):                 155            
+Page Fault Handling Time(Decimal):       160            
+------------------------------------------------------
+
+JobID loaded(DEC):                       60             
+Clock value during load(Decimal):        14663302       
+------------------------------------------------------
+JobID loaded(DEC):                       61             
+Clock value during load(Decimal):        14663302       
+------------------------------------------------------
+Completed Execution for jobID(DEC):      9              
+Current value of the clock(Decimal):     3181           
+clock at load time(hex):                 74             
+Clock at termination time(hex):          c6d            
+Number of chances at the CPU:            7              
+job Output(Hex):
+  00000001   00000001   00000002   01500040
+  00000005   00000008   0000000d   00000015
+  00000022   00000037   00000059   00000090
+Nature of termination:                   Normal         
+Runtime(Decimal):                        305            
+TurnAroundTime(Decimal):                 3065           
+Execution Time(Decimal):                 305            
+Page Fault Handling Time(Decimal):       130            
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      1              
+Current value of the clock(Decimal):     5242           
+clock at load time(hex):                 0              
+Clock at termination time(hex):          147a           
+Number of chances at the CPU:            16             
+job Output(Hex):
+  00000001   00000002   00000000   00001d09
+  00000000   00000000   00000000   00000000
+  00000001   00000004   00000000   00002ee1
+Nature of termination:                   Normal         
+Runtime(Decimal):                        693            
+TurnAroundTime(Decimal):                 5242           
+Execution Time(Decimal):                 693            
+Page Fault Handling Time(Decimal):       320            
+------------------------------------------------------
+
+JobID loaded(DEC):                       62             
+Clock value during load(Decimal):        14665450       
+------------------------------------------------------
+Completed Execution for jobID(DEC):      25             
+Current value of the clock(Decimal):     5783           
+clock at load time(hex):                 147b           
+Clock at termination time(hex):          1697           
+Number of chances at the CPU:            11             
+job Output(Hex):
+  00000037   00000000   00000000   00000000
+Memory Dump:
+  0F00000F   0120000D   0110000F   0B100009
+  09100009   0F000013   03200013   0410000E
+  0A100005   02200017   10000017   11000000
+  00000000   00000000   00000001   0000000A
+  00000000   00000000   00000000   0000000A
+  00000000   00000000   00000000   00000037
+  00000000   00000000   00000000   00000000
+  00000000   00000000   00000000   00000000
+  01500040   02500043   0125004C   02200045
+  04500047   0B50001B   01100043   03100041
+  02100044   01310048   02300046   04100047
+  0A100018   01500043   01100044   0125004C
+  00000000   00000001   00000004   00000001
+  00000008   00000200   00003333   0000000A
+  00000001   00000006   00000200   00000004
+  00000003   00000000   00000004   00003333
+  8F000020   01100023   0B10001E   01100020
+  01200023   01300021   0C40000B   81100020
+  0B10001C   09100016   0A100003   02400026
+  02100027   02200028   02300029   81500027
+  04500028   82500027   81600029   0360001F
+  82600029   0C400007   03100023   0120001F
+  02120024   01100024   0410001F   02100024
+  10000022   0C100000   00000000   00000001
+  00000022   00000024   0006f8c0   00000076
+  00000011   00000000   00000006   00000022
+  00000076   00000024   0B10001E   01100020
+  01200023   01300021   0C40000B   81100020
+  8f00010c   01100023   0B10001E   01100020
+  01200023   01300021   0C40000B   81100020
+  0B10001C   09100016   0A100003   02400026
+  02100027   02200028   02300029   81500027
+  0000001c   00000000   00000001   00000004
+  00000007   00000008   00000000   00000000
+  00000000   00000000   00000000   00000000
+  00000000   00000000   00000000   00000000
+  0310001A   0130001E   03300022   0230001E
+  04300025   09300005   0210001A   1000001A
+  0C100000   00000000   00000000   00000000
+  00000000   123AF678   00000000   00000000
+  00000000   00000024   0006fdd2   00000076
+  00000007   8f000020   00000006   00000000
+  00000076   00000024   00000000   00000000
+  00000000   00000000   00000000   00000000
+  8F000020   01100023   0B10001E   01100020
+  01200023   01300021   0C40000B   81100020
+  0B10001C   09100016   0A100003   02400026
+  02100027   02200028   02300029   81500027
+  00000022   00000024   0006fc70   00000076
+  00000009   00000000   00000006   00000022
+  00000076   00000024   00000000   00000000
+  00000000   00000000   00000000   00000000
+      null       null       null       null
+      null       null       null       null
+  01500040   02500043   0125004C   02200045
+  04500047   0B50001B   01100043   03100041
+  02100044   01310048   02300046   04100047
+  0A100018   01500043   01100044   0125004C
+  00000000   00000001   00000004   00000001
+  00000003   00000200   00000004   0000000A
+  00000001   00000006   00000200   00000004
+  00000000   00000003   00000004   00003333
+
+Nature of termination:                   Normal         
+Runtime(Decimal):                        190            
+TurnAroundTime(Decimal):                 540            
+Execution Time(Decimal):                 190            
+Page Fault Handling Time(Decimal):       320            
+------------------------------------------------------
+
+JobID loaded(DEC):                       63             
+Clock value during load(Decimal):        14665981       
+------------------------------------------------------
+**ERROR: JOBID(DEC):64 Code:5 Description:Illegal Batch Character.
+------------------------------------------------------
+**ERROR: JOBID(DEC):64 Code:11 Description:Illegal batch format
+------------------------------------------------------
+JobID loaded(DEC):                       65             
+Clock value during load(Decimal):        14665981       
+------------------------------------------------------
+Completed Execution for jobID(DEC):      26             
+Current value of the clock(Decimal):     5962           
+clock at load time(hex):                 1698           
+Clock at termination time(hex):          174a           
+Number of chances at the CPU:            2              
+job Output(Hex):
+  00000000   00000000   00000000   00000037
+Nature of termination:                   Normal         
+Runtime(Decimal):                        151            
+TurnAroundTime(Decimal):                 178            
+Execution Time(Decimal):                 151            
+Page Fault Handling Time(Decimal):       360            
+------------------------------------------------------
+
+**WARNING: JOBID(DEC):66 Code:53 Description:MISSING **DATA
+------------------------------------------------------
+JobID loaded(DEC):                       66             
+Clock value during load(Decimal):        14666160       
+------------------------------------------------------
+**ERROR: JOBID(DEC):23 Code:18 Description:Problem with number conversion.
+------------------------------------------------------
+Completed Execution for jobID(DEC):      23             
+Current value of the clock(Decimal):     6671           
+clock at load time(hex):                 bd4            
+Clock at termination time(hex):          1a0f           
+Number of chances at the CPU:            20             
+job Output(Hex):
+Nature of termination:                   Arithematic Error
+Runtime(Decimal):                        1029           
+TurnAroundTime(Decimal):                 3643           
+Execution Time(Decimal):                 1029           
+Page Fault Handling Time(Decimal):       660            
+------------------------------------------------------
+
+JobID loaded(DEC):                       67             
+Clock value during load(Decimal):        14666856       
+------------------------------------------------------
+Completed Execution for jobID(DEC):      28             
+Current value of the clock(Decimal):     6799           
+clock at load time(hex):                 1a36           
+Clock at termination time(hex):          1a8f           
+Number of chances at the CPU:            2              
+job Output(Hex):
+  00000000   00000000   00000000   00000000
+  00000000   00000000   00000000   00000000
+Nature of termination:                   Normal         
+Runtime(Decimal):                        42             
+TurnAroundTime(Decimal):                 89             
+Execution Time(Decimal):                 42             
+Page Fault Handling Time(Decimal):       565            
+------------------------------------------------------
+
+**ERROR: JOBID(DEC):68 Code:6 Description:Invalid Trace flag.
+------------------------------------------------------
+Completed Execution for jobID(DEC):      29             
+Current value of the clock(Decimal):     6908           
+clock at load time(hex):                 1a41           
+Clock at termination time(hex):          1afc           
+Number of chances at the CPU:            4              
+job Output(Hex):
+  0000001b   01500040   02500043   0125004C
+Nature of termination:                   Normal         
+Runtime(Decimal):                        155            
+TurnAroundTime(Decimal):                 187            
+Execution Time(Decimal):                 155            
+Page Fault Handling Time(Decimal):       640            
+------------------------------------------------------
+
+JobID loaded(DEC):                       69             
+Clock value during load(Decimal):        14667088       
+------------------------------------------------------
+Completed Execution for jobID(DEC):      30             
+Current value of the clock(Decimal):     7123           
+clock at load time(hex):                 1afd           
+Clock at termination time(hex):          1bd3           
+Number of chances at the CPU:            3              
+job Output(Hex):
+  00000000   00000000   00000000   00000000
+Nature of termination:                   Normal         
+Runtime(Decimal):                        129            
+TurnAroundTime(Decimal):                 214            
+Execution Time(Decimal):                 129            
+Page Fault Handling Time(Decimal):       650            
+------------------------------------------------------
+
+JobID loaded(DEC):                       70             
+Clock value during load(Decimal):        14667303       
+------------------------------------------------------
+JobID loaded(DEC):                       71             
+Clock value during load(Decimal):        14667303       
+------------------------------------------------------
+Completed Execution for jobID(DEC):      31             
+Current value of the clock(Decimal):     7416           
+clock at load time(hex):                 1bd4           
+Clock at termination time(hex):          1cf8           
+Number of chances at the CPU:            6              
+job Output(Hex):
+  00000346   00000024   000002CD   000000AF
+Nature of termination:                   Normal         
+Runtime(Decimal):                        200            
+TurnAroundTime(Decimal):                 292            
+Execution Time(Decimal):                 200            
+Page Fault Handling Time(Decimal):       655            
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      32             
+Current value of the clock(Decimal):     8475           
+clock at load time(hex):                 1cf9           
+Clock at termination time(hex):          211b           
+Number of chances at the CPU:            18             
+job Output(Hex):
+  00000001   00000002   00000003   00000003
+  00000002   00000002   00000003   00000006
+  00000003   00000004   00000004   80000003
+  00000004   00000006   00000003   00000007
+  00000005   00000006   00000055   00000055
+  00000006   00000004   00000002   80000006
+  00000000   00000004   00000007   00000000
+  00000001   00000001   00000001   00000000
+  00000002   00000003   00000007   00000000
+Nature of termination:                   Normal         
+Runtime(Decimal):                        459            
+TurnAroundTime(Decimal):                 1058           
+Execution Time(Decimal):                 459            
+Page Fault Handling Time(Decimal):       735            
+------------------------------------------------------
+
+JobID loaded(DEC):                       72             
+Clock value during load(Decimal):        14668613       
+------------------------------------------------------
+Completed Execution for jobID(DEC):      33             
+Current value of the clock(Decimal):     8812           
+clock at load time(hex):                 211c           
+Clock at termination time(hex):          226c           
+Number of chances at the CPU:            4              
+job Output(Hex):
+  00000003   00000003   00000005   00000000
+  00000005   00000002   00000007   00000023
+Nature of termination:                   Normal         
+Runtime(Decimal):                        120            
+TurnAroundTime(Decimal):                 336            
+Execution Time(Decimal):                 120            
+Page Fault Handling Time(Decimal):       755            
+------------------------------------------------------
+
+JobID loaded(DEC):                       73             
+Clock value during load(Decimal):        14668950       
+------------------------------------------------------
+JobID loaded(DEC):                       74             
+Clock value during load(Decimal):        14668950       
+------------------------------------------------------
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                    20             
+Content of subQueue4:                    34 19 24 2 18 27 
+Content of Blocked Queue:                               
+ID of current executing Job:             20             
+Memory Free:                             16             
+Memory Used:                             240            
+Current Degree of Multiprogramming:      7              
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      34             
+Current value of the clock(Decimal):     12114          
+clock at load time(hex):                 226d           
+Clock at termination time(hex):          2f52           
+Number of chances at the CPU:            14             
+job Output(Hex):
+  00000001   00000002   00000000   00001d09
+  00000000   00000000   00000000   00000000
+Nature of termination:                   Normal         
+Runtime(Decimal):                        640            
+TurnAroundTime(Decimal):                 3301           
+Execution Time(Decimal):                 640            
+Page Fault Handling Time(Decimal):       1065           
+------------------------------------------------------
+
+JobID loaded(DEC):                       75             
+Clock value during load(Decimal):        14672182       
+------------------------------------------------------
+JobID loaded(DEC):                       76             
+Clock value during load(Decimal):        14672182       
+------------------------------------------------------
+Completed Execution for jobID(DEC):      35             
+Current value of the clock(Decimal):     12310          
+clock at load time(hex):                 2f53           
+Clock at termination time(hex):          3016           
+Number of chances at the CPU:            2              
+job Output(Hex):
+  00000000   00000000   00000000   00000000
+  00000000   00000000   00000000   00000000
+Nature of termination:                   Normal         
+Runtime(Decimal):                        42             
+TurnAroundTime(Decimal):                 195            
+Execution Time(Decimal):                 42             
+Page Fault Handling Time(Decimal):       1085           
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      36             
+Current value of the clock(Decimal):     12456          
+clock at load time(hex):                 2f5e           
+Clock at termination time(hex):          30a8           
+Number of chances at the CPU:            5              
+job Output(Hex):
+  00000002   00000004   00000008   00000010
+  00000020   00000040   00000080   00000100
+  00000200   00000400   00000800   00000222
+Nature of termination:                   Normal         
+Runtime(Decimal):                        216            
+TurnAroundTime(Decimal):                 330            
+Execution Time(Decimal):                 216            
+Page Fault Handling Time(Decimal):       1095           
+------------------------------------------------------
+
+JobID loaded(DEC):                       77             
+Clock value during load(Decimal):        14672524       
+------------------------------------------------------
+Completed Execution for jobID(DEC):      37             
+Current value of the clock(Decimal):     12671          
+clock at load time(hex):                 30a9           
+Clock at termination time(hex):          317f           
+Number of chances at the CPU:            3              
+job Output(Hex):
+  00000000   00000000   00000000   00000000
+Nature of termination:                   Normal         
+Runtime(Decimal):                        129            
+TurnAroundTime(Decimal):                 214            
+Execution Time(Decimal):                 129            
+Page Fault Handling Time(Decimal):       1100           
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      38             
+Current value of the clock(Decimal):     12886          
+clock at load time(hex):                 3180           
+Clock at termination time(hex):          3256           
+Number of chances at the CPU:            3              
+job Output(Hex):
+  00000000   00000000   00000000   00000000
+Nature of termination:                   Normal         
+Runtime(Decimal):                        129            
+TurnAroundTime(Decimal):                 214            
+Execution Time(Decimal):                 129            
+Page Fault Handling Time(Decimal):       1110           
+------------------------------------------------------
+
+JobID loaded(DEC):                       78             
+Clock value during load(Decimal):        14672954       
+------------------------------------------------------
+JobID loaded(DEC):                       79             
+Clock value during load(Decimal):        14672954       
+------------------------------------------------------
+Completed Execution for jobID(DEC):      39             
+Current value of the clock(Decimal):     13086          
+clock at load time(hex):                 3257           
+Clock at termination time(hex):          331e           
+Number of chances at the CPU:            2              
+job Output(Hex):
+  00000003   00000000   00000000   00000000
+Nature of termination:                   Normal         
+Runtime(Decimal):                        46             
+TurnAroundTime(Decimal):                 199            
+Execution Time(Decimal):                 46             
+Page Fault Handling Time(Decimal):       1115           
+------------------------------------------------------
+
+JobID loaded(DEC):                       80             
+Clock value during load(Decimal):        14673154       
+------------------------------------------------------
+**ERROR: JOBID(DEC):40 Code:17 Description:Insufficient Output Space
+------------------------------------------------------
+Completed Execution for jobID(DEC):      40             
+Current value of the clock(Decimal):     13190          
+clock at load time(hex):                 331f           
+Clock at termination time(hex):          3386           
+Number of chances at the CPU:            1              
+job Output(Hex):
+Nature of termination:                   Insufficient Output space
+Runtime(Decimal):                        62             
+TurnAroundTime(Decimal):                 103            
+Execution Time(Decimal):                 62             
+Page Fault Handling Time(Decimal):       1125           
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      41             
+Current value of the clock(Decimal):     13409          
+clock at load time(hex):                 3387           
+Clock at termination time(hex):          3461           
+Number of chances at the CPU:            2              
+job Output(Hex):
+  00000000   00000000   00000000   00000037
+Nature of termination:                   Normal         
+Runtime(Decimal):                        151            
+TurnAroundTime(Decimal):                 218            
+Execution Time(Decimal):                 151            
+Page Fault Handling Time(Decimal):       1165           
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      42             
+Current value of the clock(Decimal):     13728          
+clock at load time(hex):                 3462           
+Clock at termination time(hex):          35a0           
+Number of chances at the CPU:            4              
+job Output(Hex):
+  00000003   00000003   00000005   00000000
+  00000005   00000002   00000007   00000023
+Nature of termination:                   Normal         
+Runtime(Decimal):                        120            
+TurnAroundTime(Decimal):                 318            
+Execution Time(Decimal):                 120            
+Page Fault Handling Time(Decimal):       1185           
+------------------------------------------------------
+
+JobID loaded(DEC):                       81             
+Clock value during load(Decimal):        14673780       
+------------------------------------------------------
+**ERROR: JOBID(DEC):81 Code:13 Description:Missing Job
+------------------------------------------------------
+**WARNING: JOBID(DEC):81 Code:51 Description:MISSING **FIN
+------------------------------------------------------
+JobID loaded(DEC):                       82             
+Clock value during load(Decimal):        14673780       
+------------------------------------------------------
+Completed Execution for jobID(DEC):      44             
+Current value of the clock(Decimal):     13862          
+clock at load time(hex):                 35a1           
+Clock at termination time(hex):          3626           
+Number of chances at the CPU:            2              
+job Output(Hex):
+  00000078   00000000   00000000   00000000
+Nature of termination:                   Normal         
+Runtime(Decimal):                        75             
+TurnAroundTime(Decimal):                 133            
+Execution Time(Decimal):                 75             
+Page Fault Handling Time(Decimal):       1195           
+------------------------------------------------------
+
+JobID loaded(DEC):                       83             
+Clock value during load(Decimal):        14673912       
+------------------------------------------------------
+Completed Execution for jobID(DEC):      19             
+Current value of the clock(Decimal):     14133          
+clock at load time(hex):                 66b            
+Clock at termination time(hex):          3735           
+Number of chances at the CPU:            48             
+job Output(Hex):
+  00000000   00000000   00000000   98989898
+  00000000   00000000   00000000   123AF678
+  00000000   00000000   00000000   27548951
+Nature of termination:                   Normal         
+Runtime(Decimal):                        2443           
+TurnAroundTime(Decimal):                 12490          
+Execution Time(Decimal):                 2443           
+Page Fault Handling Time(Decimal):       1610           
+------------------------------------------------------
+
+JobID loaded(DEC):                       84             
+Clock value during load(Decimal):        14674174       
+------------------------------------------------------
+Completed Execution for jobID(DEC):      46             
+Current value of the clock(Decimal):     14296          
+clock at load time(hex):                 3736           
+Clock at termination time(hex):          37d8           
+Number of chances at the CPU:            3              
+job Output(Hex):
+  00000000   00000000   00000000   00000000
+Nature of termination:                   Normal         
+Runtime(Decimal):                        129            
+TurnAroundTime(Decimal):                 162            
+Execution Time(Decimal):                 129            
+Page Fault Handling Time(Decimal):       1615           
+------------------------------------------------------
+
+JobID loaded(DEC):                       85             
+Clock value during load(Decimal):        14674336       
+------------------------------------------------------
+Completed Execution for jobID(DEC):      47             
+Current value of the clock(Decimal):     14425          
+clock at load time(hex):                 37d9           
+Clock at termination time(hex):          3859           
+Number of chances at the CPU:            2              
+job Output(Hex):
+  00000012   00000000   00000000   00000000
+Nature of termination:                   Normal         
+Runtime(Decimal):                        73             
+TurnAroundTime(Decimal):                 128            
+Execution Time(Decimal):                 73             
+Page Fault Handling Time(Decimal):       1635           
+------------------------------------------------------
+
+**WARNING: JOBID(DEC):86 Code:51 Description:MISSING **FIN
+------------------------------------------------------
+JobID loaded(DEC):                       87             
+Clock value during load(Decimal):        14674463       
+------------------------------------------------------
+**ERROR: JOBID(DEC):45 Code:18 Description:Problem with number conversion.
+------------------------------------------------------
+Completed Execution for jobID(DEC):      45             
+Current value of the clock(Decimal):     16132          
+clock at load time(hex):                 3640           
+Clock at termination time(hex):          3f04           
+Number of chances at the CPU:            12             
+job Output(Hex):
+Nature of termination:                   Arithematic Error
+Runtime(Decimal):                        609            
+TurnAroundTime(Decimal):                 2244           
+Execution Time(Decimal):                 609            
+Page Fault Handling Time(Decimal):       1870           
+------------------------------------------------------
+
+JobID loaded(DEC):                       88             
+Clock value during load(Decimal):        14676122       
+------------------------------------------------------
+**ERROR: JOBID(DEC):50 Code:5 Description:Illegal Batch Character.
+------------------------------------------------------
+Completed Execution for jobID(DEC):      50             
+Current value of the clock(Decimal):     16149          
+clock at load time(hex):                 0              
+Clock at termination time(hex):          3f15           
+Number of chances at the CPU:            0              
+job Output(Hex):
+Nature of termination:                   Illegal character
+Runtime(Decimal):                        0              
+TurnAroundTime(Decimal):                 16149          
+Execution Time(Decimal):                 0              
+Page Fault Handling Time(Decimal):       0              
+------------------------------------------------------
+
+JobID loaded(DEC):                       89             
+Clock value during load(Decimal):        14676138       
+------------------------------------------------------
+Completed Execution for jobID(DEC):      51             
+Current value of the clock(Decimal):     16382          
+clock at load time(hex):                 3f15           
+Clock at termination time(hex):          3ffe           
+Number of chances at the CPU:            4              
+job Output(Hex):
+  00000005   0000000a   0000000c   00000008
+  0000000f   00000004   00000002   00000003
+Nature of termination:                   Normal         
+Runtime(Decimal):                        148            
+TurnAroundTime(Decimal):                 233            
+Execution Time(Decimal):                 148            
+Page Fault Handling Time(Decimal):       1445           
+------------------------------------------------------
+
+JobID loaded(DEC):                       90             
+Clock value during load(Decimal):        14676372       
+------------------------------------------------------
+Completed Execution for jobID(DEC):      53             
+Current value of the clock(Decimal):     16614          
+clock at load time(hex):                 3fff           
+Clock at termination time(hex):          40e6           
+Number of chances at the CPU:            4              
+job Output(Hex):
+  0000001b   8F000020   01100023   0B10001E
+Nature of termination:                   Normal         
+Runtime(Decimal):                        155            
+TurnAroundTime(Decimal):                 231            
+Execution Time(Decimal):                 155            
+Page Fault Handling Time(Decimal):       1520           
+------------------------------------------------------
+
+JobID loaded(DEC):                       91             
+Clock value during load(Decimal):        14676598       
+------------------------------------------------------
+Completed Execution for jobID(DEC):      54             
+Current value of the clock(Decimal):     16814          
+clock at load time(hex):                 40e7           
+Clock at termination time(hex):          41ae           
+Number of chances at the CPU:            2              
+job Output(Hex):
+  00000003   00000000   00000000   00000000
+Nature of termination:                   Normal         
+Runtime(Decimal):                        46             
+TurnAroundTime(Decimal):                 199            
+Execution Time(Decimal):                 46             
+Page Fault Handling Time(Decimal):       1525           
+------------------------------------------------------
+
+JobID loaded(DEC):                       92             
+Clock value during load(Decimal):        14676798       
+------------------------------------------------------
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                    55             
+Content of subQueue4:                    24 2 18 48 27 20 
+Content of Blocked Queue:                               
+ID of current executing Job:             55             
+Memory Free:                             16             
+Memory Used:                             240            
+Current Degree of Multiprogramming:      7              
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      2              
+Current value of the clock(Decimal):     25049          
+clock at load time(hex):                 b              
+Clock at termination time(hex):          61d9           
+Number of chances at the CPU:            92             
+job Output(Hex):
+  0000000A   00000001   00000006   00000200
+  00000004   00003333   00000222   00000040
+  00000004   8F000020   01100023   0B10001E
+  00000000   00000000   00000000   00000000
+  00000000   00000000   00000000   00000000
+Nature of termination:                   Normal         
+Runtime(Decimal):                        4739           
+TurnAroundTime(Decimal):                 25038          
+Execution Time(Decimal):                 4739           
+Page Fault Handling Time(Decimal):       2665           
+------------------------------------------------------
+
+JobID loaded(DEC):                       93             
+Clock value during load(Decimal):        14684771       
+------------------------------------------------------
+JobID loaded(DEC):                       94             
+Clock value during load(Decimal):        14684771       
+------------------------------------------------------
+**ERROR: JOBID(DEC):56 Code:23 Description:Invalid Opcode
+------------------------------------------------------
+Completed Execution for jobID(DEC):      56             
+Current value of the clock(Decimal):     25063          
+clock at load time(hex):                 0              
+Clock at termination time(hex):          61e7           
+Number of chances at the CPU:            0              
+job Output(Hex):
+Nature of termination:                   Invalid Opcode 
+Runtime(Decimal):                        0              
+TurnAroundTime(Decimal):                 25063          
+Execution Time(Decimal):                 0              
+Page Fault Handling Time(Decimal):       0              
+------------------------------------------------------
+
+JobID loaded(DEC):                       95             
+Clock value during load(Decimal):        14684784       
+------------------------------------------------------
+JobID loaded(DEC):                       95             
+Clock value during load(Decimal):        14684784       
+------------------------------------------------------
+Completed Execution for jobID(DEC):      18             
+Current value of the clock(Decimal):     25063          
+clock at load time(hex):                 64f            
+Clock at termination time(hex):          61e7           
+Number of chances at the CPU:            92             
+job Output(Hex):
+  0000000A   00000001   00000006   00000200
+  00000004   00003333   00000222   00000040
+  00000004   00000000   00000000   00000000
+  00000000   00000000   00000000   00000000
+  00000000   00000000   00000000   00000000
+Nature of termination:                   Normal         
+Runtime(Decimal):                        4739           
+TurnAroundTime(Decimal):                 23448          
+Execution Time(Decimal):                 4739           
+Page Fault Handling Time(Decimal):       2780           
+------------------------------------------------------
+
+JobID loaded(DEC):                       96             
+Clock value during load(Decimal):        14684785       
+------------------------------------------------------
+Completed Execution for jobID(DEC):      58             
+Current value of the clock(Decimal):     25438          
+clock at load time(hex):                 61f3           
+Clock at termination time(hex):          635e           
+Number of chances at the CPU:            6              
+job Output(Hex):
+  00000346   00000024   000002CD   000000AF
+Nature of termination:                   Normal         
+Runtime(Decimal):                        200            
+TurnAroundTime(Decimal):                 363            
+Execution Time(Decimal):                 200            
+Page Fault Handling Time(Decimal):       2790           
+------------------------------------------------------
+
+JobID loaded(DEC):                       97             
+Clock value during load(Decimal):        14685150       
+------------------------------------------------------
+Completed Execution for jobID(DEC):      57             
+Current value of the clock(Decimal):     26028          
+clock at load time(hex):                 61e8           
+Clock at termination time(hex):          65ac           
+Number of chances at the CPU:            18             
+job Output(Hex):
+  00000001   00000002   00000003   00000003
+  00000002   00000002   00000003   00000006
+  00000003   00000004   00000004   80000003
+  00000004   00000006   00000003   00000007
+  00000005   00000006   00000055   00000055
+  00000006   00000004   00000002   80000006
+  00000000   00000004   00000007   00000000
+  00000001   00000001   00000001   00000000
+  00000002   00000003   00000007   00000000
+Nature of termination:                   Normal         
+Runtime(Decimal):                        459            
+TurnAroundTime(Decimal):                 964            
+Execution Time(Decimal):                 459            
+Page Fault Handling Time(Decimal):       2870           
+------------------------------------------------------
+
+**ERROR: JOBID(DEC):98 Code:5 Description:Illegal Batch Character.
+------------------------------------------------------
+**ERROR: JOBID(DEC):98 Code:5 Description:Illegal Batch Character.
+------------------------------------------------------
+**ERROR: JOBID(DEC):98 Code:11 Description:Illegal batch format
+------------------------------------------------------
+JobID loaded(DEC):                       99             
+Clock value during load(Decimal):        14685719       
+------------------------------------------------------
+JobID loaded(DEC):                       100            
+Clock value during load(Decimal):        14685719       
+------------------------------------------------------
+Completed Execution for jobID(DEC):      61             
+Current value of the clock(Decimal):     26323          
+clock at load time(hex):                 65df           
+Clock at termination time(hex):          66d3           
+Number of chances at the CPU:            3              
+job Output(Hex):
+  0000001c   00000000   00000000   00000000
+Nature of termination:                   Normal         
+Runtime(Decimal):                        88             
+TurnAroundTime(Decimal):                 244            
+Execution Time(Decimal):                 88             
+Page Fault Handling Time(Decimal):       360            
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      62             
+Current value of the clock(Decimal):     29800          
+clock at load time(hex):                 6709           
+Clock at termination time(hex):          7468           
+Number of chances at the CPU:            16             
+job Output(Hex):
+  00000001   00000002   00000000   00001d09
+  00000000   00000000   00000000   00000000
+  00000001   00000004   00000000   00002ee1
+Nature of termination:                   Normal         
+Runtime(Decimal):                        693            
+TurnAroundTime(Decimal):                 3423           
+Execution Time(Decimal):                 693            
+Page Fault Handling Time(Decimal):       355            
+------------------------------------------------------
+
+JobID loaded(DEC):                       101            
+Clock value during load(Decimal):        14689375       
+------------------------------------------------------
+JobID loaded(DEC):                       102            
+Clock value during load(Decimal):        14689375       
+------------------------------------------------------
+Status of the the system:
+Content of subQueue1:                    63             
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    27 20 55 24 60 48 
+Content of Blocked Queue:                               
+ID of current executing Job:             63             
+Memory Free:                             16             
+Memory Used:                             240            
+Current Degree of Multiprogramming:      7              
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      63             
+Current value of the clock(Decimal):     30499          
+clock at load time(hex):                 7469           
+Clock at termination time(hex):          7723           
+Number of chances at the CPU:            11             
+job Output(Hex):
+  00000037   00000000   00000000   00000000
+Memory Dump:
+  0F00000E   0120000C   0110000E   0B100009
+  09100009   0210000D   0520000D   0410000C
+  0A100008   02200014   10000014   00000000
+  00000001   00000006   00000006   00000000
+  00000000   00000000   00000000   00000000
+  00000000   00000000   00000000   00000000
+  00000000   00000000   00000000   00000000
+  00000000   00000000   00000000   00000000
+  0F00000F   0120000D   0110000F   0B100009
+  09100009   0F000013   03200013   0410000E
+  0A100005   02200017   10000017   11000000
+  00000000   00000000   00000001   0000000A
+  00000000   00000000   00000000   0000000A
+  00000000   00000000   00000000   00000037
+  00000000   00000000   00000000   00000000
+  00000000   00000000   00000000   00000000
+  8F000020   01100023   0B10001E   01100020
+  01200023   01300021   0C40000B   81100020
+  0B10001C   09100016   0A100003   02400026
+  02100027   02200028   02300029   81500027
+  04500028   82500027   81600029   0360001F
+  82600029   0C400007   03100023   0120001F
+  02120024   01100024   0410001F   02100024
+  10000022   0C100000   00000000   00000001
+  00000022   00000024   0006c25c   00000076
+  00000087   00000000   00000006   00000022
+  00000076   00000024   0B10001E   01100020
+  01200023   01300021   0C40000B   81100020
+  8F000020   01100023   0B10001E   01100020
+  01200023   01300021   0C40000B   81100020
+  0B10001C   09100016   0A100003   02400026
+  02100027   02200028   02300029   81500027
+  04500028   82500027   81600029   0360001F
+  82600029   0C400007   03100023   0120001F
+  02120024   01100024   0410001F   02100024
+  10000022   0C100000   00000000   00000001
+  00000022   00000024   0006ea76   00000076
+  00000030   00000000   00000006   00000022
+  00000076   00000024   00000000   00000000
+  00000000   00000000   00000000   00000000
+  00000022   00000024   0006ef12   00000076
+  00000026   00000000   00000006   00000022
+  00000076   00000024   00000000   00000000
+  00000000   00000000   00000000   00000000
+  04500028   82500027   81600029   0360001F
+  82600029   0C400007   03100023   0120001F
+  02120024   01100024   0410001F   02100024
+  10000022   0C100000   00000000   00000001
+  00000022   00000024   0006dbb6   00000076
+  00000050   00000000   00000006   00000022
+  00000076   00000024   00000000   00000000
+  00000000   00000000   00000000   00000000
+  01500040   02500043   0125004C   02200045
+  04500047   0B50001B   01100043   03100041
+  02100044   01310048   02300046   04100047
+  0A100018   01500043   01100044   0125004C
+  00000000   00000001   00000004   00000001
+  00000008   00000200   00003333   0000000A
+  00000001   00000006   00000200   00000004
+  00000003   00000000   00000004   00003333
+      null       null       null       null
+      null       null       null       null
+
+Nature of termination:                   Normal         
+Runtime(Decimal):                        190            
+TurnAroundTime(Decimal):                 698            
+Execution Time(Decimal):                 190            
+Page Fault Handling Time(Decimal):       355            
+------------------------------------------------------
+
+JobID loaded(DEC):                       103            
+Clock value during load(Decimal):        14690062       
+------------------------------------------------------
+**ERROR: JOBID(DEC):65 Code:20 Description:IO Exception
+------------------------------------------------------
+Completed Execution for jobID(DEC):      65             
+Current value of the clock(Decimal):     30501          
+clock at load time(hex):                 0              
+Clock at termination time(hex):          7725           
+Number of chances at the CPU:            0              
+job Output(Hex):
+Nature of termination:                   IO Exception   
+Runtime(Decimal):                        0              
+TurnAroundTime(Decimal):                 30501          
+Execution Time(Decimal):                 0              
+Page Fault Handling Time(Decimal):       0              
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      66             
+Current value of the clock(Decimal):     30593          
+clock at load time(hex):                 7725           
+Clock at termination time(hex):          7781           
+Number of chances at the CPU:            2              
+job Output(Hex):
+  00000000   00000000   00000000   00000000
+  00000000   00000000   00000000   00000000
+Nature of termination:                   Normal         
+Runtime(Decimal):                        42             
+TurnAroundTime(Decimal):                 92             
+Execution Time(Decimal):                 42             
+Page Fault Handling Time(Decimal):       355            
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      67             
+Current value of the clock(Decimal):     31075          
+clock at load time(hex):                 7730           
+Clock at termination time(hex):          7963           
+Number of chances at the CPU:            11             
+job Output(Hex):
+  00000037   00000000   00000000   00000000
+Memory Dump:
+  0F00000E   0120000C   0110000E   0B100009
+  09100009   0210000D   0520000D   0410000C
+  0A100008   02200014   10000014   00000000
+  00000001   00000006   00000006   00000000
+  00000000   00000000   00000000   00000000
+  00000000   00000000   00000000   00000000
+  00000000   00000000   00000000   00000000
+  00000000   00000000   00000000   00000000
+      null       null       null       null
+      null       null       null       null
+  0F00000F   0120000D   0110000F   0B100009
+  09100009   0F000013   03200013   0410000E
+  0A100005   02200017   10000017   11000000
+  00000000   00000000   00000001   0000000A
+  00000000   00000000   00000000   01100020
+  01200023   01300021   0C40000B   81100020
+  0B10001C   09100016   0A100003   02400026
+  02100027   02200028   02300029   81500027
+  04500028   82500027   81600029   0360001F
+  82600029   0C400007   03100023   0120001F
+  02120024   01100024   0410001F   02100024
+  10000022   0C100000   00000000   00000001
+  00000022   00000024   0006c0fa   00000076
+  0000008a   00000000   00000006   00000022
+  00000076   00000024   0B10001E   01100020
+  01200023   01300021   0C40000B   81100020
+  8F000020   01100023   0B10001E   01100020
+  01200023   01300021   0C40000B   81100020
+  0B10001C   09100016   0A100003   02400026
+  02100027   02200028   02300029   81500027
+  04500028   82500027   81600029   0360001F
+  82600029   0C400007   03100023   0120001F
+  02120024   01100024   0410001F   02100024
+  10000022   0C100000   00000000   00000001
+  00000022   00000024   0006ea76   00000076
+  00000030   00000000   00000006   00000022
+  00000076   00000024   00000000   00000000
+  00000000   00000000   00000000   00000000
+  00000022   00000024   0006edb0   00000076
+  00000029   00000000   00000006   00000022
+  00000076   00000024   00000000   00000000
+  00000000   00000000   00000000   00000000
+  8F000020   01100023   0B10001E   01100020
+  01200023   01300021   0C40000B   81100020
+  0B10001C   09100016   0A100003   02400026
+  02100027   02200028   02300029   81500027
+  00000022   00000024   0006daca   00000076
+  00000052   00000000   00000006   00000022
+  00000076   00000024   00000000   00000000
+  00000000   00000000   00000000   00000000
+  01500040   02500043   0125004C   02200045
+  04500047   0B50001B   01100043   03100041
+  02100044   01310048   02300046   04100047
+  0A100018   01500043   01100044   0125004C
+  00000000   00000001   00000004   00000001
+  00000008   00000200   00003333   0000000A
+  00000001   00000006   00000200   00000004
+  00000003   00000000   00000004   00003333
+  00000000   00000000   00000000   0000000A
+  00000000   00000000   00000000   00000037
+  00000000   00000000   00000000   00000000
+  00000000   00000000   00000000   00000000
+
+Nature of termination:                   Normal         
+Runtime(Decimal):                        190            
+TurnAroundTime(Decimal):                 563            
+Execution Time(Decimal):                 190            
+Page Fault Handling Time(Decimal):       355            
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      69             
+Current value of the clock(Decimal):     31284          
+clock at load time(hex):                 7964           
+Clock at termination time(hex):          7a34           
+Number of chances at the CPU:            3              
+job Output(Hex):
+  00000000   00000000   00000000   00000000
+Nature of termination:                   Normal         
+Runtime(Decimal):                        129            
+TurnAroundTime(Decimal):                 208            
+Execution Time(Decimal):                 129            
+Page Fault Handling Time(Decimal):       360            
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      70             
+Current value of the clock(Decimal):     31622          
+clock at load time(hex):                 7a35           
+Clock at termination time(hex):          7b86           
+Number of chances at the CPU:            5              
+job Output(Hex):
+  00000002   00000004   00000008   00000010
+  00000020   00000040   00000080   00000100
+  00000200   00000400   00000800   00000000
+Nature of termination:                   Normal         
+Runtime(Decimal):                        216            
+TurnAroundTime(Decimal):                 337            
+Execution Time(Decimal):                 216            
+Page Fault Handling Time(Decimal):       375            
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      71             
+Current value of the clock(Decimal):     31727          
+clock at load time(hex):                 7b87           
+Clock at termination time(hex):          7bef           
+Number of chances at the CPU:            2              
+job Output(Hex):
+  00000000   00000000   00000000   00000000
+  00000000   00000000   00000000   00000000
+Nature of termination:                   Normal         
+Runtime(Decimal):                        42             
+TurnAroundTime(Decimal):                 104            
+Execution Time(Decimal):                 42             
+Page Fault Handling Time(Decimal):       375            
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      72             
+Current value of the clock(Decimal):     31879          
+clock at load time(hex):                 7b92           
+Clock at termination time(hex):          7c87           
+Number of chances at the CPU:            4              
+job Output(Hex):
+  00000003   00000003   00000005   00000000
+  00000005   00000002   00000007   00000023
+Nature of termination:                   Normal         
+Runtime(Decimal):                        120            
+TurnAroundTime(Decimal):                 245            
+Execution Time(Decimal):                 120            
+Page Fault Handling Time(Decimal):       395            
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      73             
+Current value of the clock(Decimal):     33062          
+clock at load time(hex):                 7cba           
+Clock at termination time(hex):          8126           
+Number of chances at the CPU:            18             
+job Output(Hex):
+  00000001   00000002   00000003   00000003
+  00000002   00000002   00000003   00000006
+  00000003   00000004   00000004   80000003
+  00000004   00000006   00000003   00000007
+  00000005   00000006   00000055   00000055
+  00000006   00000004   00000002   80000006
+  00000000   00000004   00000007   00000000
+  00000001   00000001   00000001   00000000
+  00000002   00000003   00000007   00000000
+Nature of termination:                   Normal         
+Runtime(Decimal):                        459            
+TurnAroundTime(Decimal):                 1132           
+Execution Time(Decimal):                 459            
+Page Fault Handling Time(Decimal):       440            
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      74             
+Current value of the clock(Decimal):     33551          
+clock at load time(hex):                 8146           
+Clock at termination time(hex):          830f           
+Number of chances at the CPU:            6              
+job Output(Hex):
+  00000346   00000024   000002CD   000000AF
+Nature of termination:                   Normal         
+Runtime(Decimal):                        200            
+TurnAroundTime(Decimal):                 457            
+Execution Time(Decimal):                 200            
+Page Fault Handling Time(Decimal):       2805           
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      75             
+Current value of the clock(Decimal):     33771          
+clock at load time(hex):                 8310           
+Clock at termination time(hex):          83eb           
+Number of chances at the CPU:            2              
+job Output(Hex):
+  00000012   00000000   00000000   00000000
+Nature of termination:                   Normal         
+Runtime(Decimal):                        73             
+TurnAroundTime(Decimal):                 219            
+Execution Time(Decimal):                 73             
+Page Fault Handling Time(Decimal):       2820           
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      76             
+Current value of the clock(Decimal):     34157          
+clock at load time(hex):                 83ec           
+Clock at termination time(hex):          856d           
+Number of chances at the CPU:            6              
+job Output(Hex):
+  00000346   00000024   000002CD   000000AF
+Nature of termination:                   Normal         
+Runtime(Decimal):                        200            
+TurnAroundTime(Decimal):                 385            
+Execution Time(Decimal):                 200            
+Page Fault Handling Time(Decimal):       2825           
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      77             
+Current value of the clock(Decimal):     34326          
+clock at load time(hex):                 856e           
+Clock at termination time(hex):          8616           
+Number of chances at the CPU:            2              
+job Output(Hex):
+  00000012   00000000   00000000   00000000
+Nature of termination:                   Normal         
+Runtime(Decimal):                        73             
+TurnAroundTime(Decimal):                 168            
+Execution Time(Decimal):                 73             
+Page Fault Handling Time(Decimal):       2840           
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                    55             
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    24 78 60 48 27 20 
+Content of Blocked Queue:                               
+ID of current executing Job:             55             
+Memory Free:                             16             
+Memory Used:                             240            
+Current Degree of Multiprogramming:      7              
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      60             
+Current value of the clock(Decimal):     49345          
+clock at load time(hex):                 636a           
+Clock at termination time(hex):          c0c1           
+Number of chances at the CPU:            92             
+job Output(Hex):
+  0000000A   00000001   00000006   00000200
+  00000004   00003333   00000222   00000040
+  00000004   00000000   00000000   00000000
+  00000000   00000000   00000000   00000000
+  00000000   00000000   00000000   00000000
+Nature of termination:                   Normal         
+Runtime(Decimal):                        4739           
+TurnAroundTime(Decimal):                 23895          
+Execution Time(Decimal):                 4739           
+Page Fault Handling Time(Decimal):       5495           
+------------------------------------------------------
+
+**ERROR: JOBID(DEC):79 Code:15 Description:MISSING DATA
+------------------------------------------------------
+Completed Execution for jobID(DEC):      79             
+Current value of the clock(Decimal):     49406          
+clock at load time(hex):                 c0f4           
+Clock at termination time(hex):          c0fe           
+Number of chances at the CPU:            0              
+job Output(Hex):
+Nature of termination:                   Read Error     
+Runtime(Decimal):                        10             
+TurnAroundTime(Decimal):                 10             
+Execution Time(Decimal):                 10             
+Page Fault Handling Time(Decimal):       360            
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      80             
+Current value of the clock(Decimal):     49609          
+clock at load time(hex):                 c0ff           
+Clock at termination time(hex):          c1c9           
+Number of chances at the CPU:            2              
+job Output(Hex):
+  00000003   00000000   00000000   00000000
+Nature of termination:                   Normal         
+Runtime(Decimal):                        46             
+TurnAroundTime(Decimal):                 202            
+Execution Time(Decimal):                 46             
+Page Fault Handling Time(Decimal):       360            
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                    81             
+Content of subQueue2:                    24             
+Content of subQueue3:                                   
+Content of subQueue4:                    78 48 27 20 55 
+Content of Blocked Queue:                               
+ID of current executing Job:             81             
+Memory Free:                             16             
+Memory Used:                             240            
+Current Degree of Multiprogramming:      7              
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      81             
+Current value of the clock(Decimal):     50695          
+clock at load time(hex):                 c1fe           
+Clock at termination time(hex):          c607           
+Number of chances at the CPU:            18             
+job Output(Hex):
+  00000001   00000002   00000003   00000003
+  00000002   00000002   00000003   00000006
+  00000003   00000004   00000004   80000003
+  00000004   00000006   00000003   00000007
+  00000005   00000006   00000055   00000055
+  00000006   00000004   00000002   80000006
+  00000000   00000004   00000007   00000000
+  00000001   00000001   00000001   00000000
+  00000002   00000003   00000007   00000000
+Nature of termination:                   Normal         
+Runtime(Decimal):                        459            
+TurnAroundTime(Decimal):                 1033           
+Execution Time(Decimal):                 459            
+Page Fault Handling Time(Decimal):       115            
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      82             
+Current value of the clock(Decimal):     54222          
+clock at load time(hex):                 c63a           
+Clock at termination time(hex):          d3ce           
+Number of chances at the CPU:            16             
+job Output(Hex):
+  00000001   00000002   00000000   00001d09
+  00000000   00000000   00000000   00000000
+  00000001   00000004   00000000   00002ee1
+Nature of termination:                   Normal         
+Runtime(Decimal):                        693            
+TurnAroundTime(Decimal):                 3476           
+Execution Time(Decimal):                 693            
+Page Fault Handling Time(Decimal):       680            
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      83             
+Current value of the clock(Decimal):     54467          
+clock at load time(hex):                 d3cf           
+Clock at termination time(hex):          d4c3           
+Number of chances at the CPU:            4              
+job Output(Hex):
+  00000005   0000000a   0000000c   00000008
+  0000000f   00000004   00000002   00000003
+Nature of termination:                   Normal         
+Runtime(Decimal):                        148            
+TurnAroundTime(Decimal):                 244            
+Execution Time(Decimal):                 148            
+Page Fault Handling Time(Decimal):       710            
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      84             
+Current value of the clock(Decimal):     55175          
+clock at load time(hex):                 d4c4           
+Clock at termination time(hex):          d787           
+Number of chances at the CPU:            11             
+job Output(Hex):
+  00000037   00000000   00000000   00000000
+Memory Dump:
+  0F00000E   0120000C   0110000E   0B100009
+  09100009   0210000D   0520000D   0410000C
+  0A100008   02200014   10000014   00000000
+  00000001   00000006   00000006   00000000
+  00000000   00000000   00000000   00000000
+  00000000   00000000   00000000   00000000
+  00000000   00000000   00000000   00000000
+  00000000   00000000   00000000   00000000
+  00000003   00000002   00000000   00000000
+  00000000   00000000   00000000   00000000
+  00000000   00000000   00000000   00000000
+  00000000   00000000   00000000   00000000
+  00000000   00000001   00000004   00000008
+  0000000a   00000000   00000000   0000000A
+  00000001   00000006   00000200   00000004
+  00003333   00000222   00000040   00000004
+  00000000   00000000   00000000   01100020
+  01200023   01300021   0C40000B   81100020
+  0B10001C   09100016   0A100003   02400026
+  02100027   02200028   02300029   81500027
+  04500028   82500027   81600029   0360001F
+  82600029   0C400007   03100023   0120001F
+  02120024   01100024   0410001F   02100024
+  10000022   0C100000   00000000   00000001
+  00000022   00000024   000689aa   00000076
+  00000102   00000000   00000006   00000022
+  00000076   00000024   0B10001E   01100020
+  01200023   01300021   0C40000B   81100020
+  04500028   82500027   81600029   0360001F
+  82600029   0C400007   03100023   0120001F
+  02120024   01100024   0410001F   02100024
+  10000022   0C100000   00000000   00000001
+  8F000020   01100023   0B10001E   01100020
+  01200023   01300021   0C40000B   81100020
+  0B10001C   09100016   0A100003   02400026
+  02100027   02200028   02300029   81500027
+  00000022   00000024   0006c8d0   00000076
+  00000079   00000000   00000006   00000022
+  00000076   00000024   00000000   00000000
+  00000000   00000000   00000000   00000000
+  00000022   00000024   0006ccf6   00000076
+  00000070   00000000   00000006   00000022
+  00000076   00000024   00000000   00000000
+  00000000   00000000   00000000   00000000
+  8F000020   01100023   0B10001E   01100020
+  01200023   01300021   0C40000B   81100020
+  0B10001C   09100016   0A100003   02400026
+  02100027   02200028   02300029   81500027
+  00000022   00000024   0006ba10   00000076
+  00000099   00000000   00000006   00000022
+  00000076   00000024   00000000   00000000
+  00000000   00000000   00000000   00000000
+  0F00000F   0120000D   0110000F   0B100009
+  09100009   0F000013   03200013   0410000E
+  0A100005   02200017   10000017   11000000
+  00000000   00000000   00000001   0000000A
+  00000000   00000000   00000000   0000000A
+  00000000   00000000   00000000   00000037
+  00000000   00000000   00000000   00000000
+  00000000   00000000   00000000   00000000
+      null       null       null       null
+      null       null       null       null
+
+Nature of termination:                   Normal         
+Runtime(Decimal):                        190            
+TurnAroundTime(Decimal):                 707            
+Execution Time(Decimal):                 190            
+Page Fault Handling Time(Decimal):       710            
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      85             
+Current value of the clock(Decimal):     55521          
+clock at load time(hex):                 d788           
+Clock at termination time(hex):          d8e1           
+Number of chances at the CPU:            5              
+job Output(Hex):
+  00000002   00000004   00000008   00000010
+  00000020   00000040   00000080   00000100
+  00000200   00000400   00000800   00000000
+Nature of termination:                   Normal         
+Runtime(Decimal):                        216            
+TurnAroundTime(Decimal):                 345            
+Execution Time(Decimal):                 216            
+Page Fault Handling Time(Decimal):       720            
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      78             
+Current value of the clock(Decimal):     57022          
+clock at load time(hex):                 8617           
+Clock at termination time(hex):          debe           
+Number of chances at the CPU:            92             
+job Output(Hex):
+  0000000A   00000001   00000006   00000200
+  00000004   00003333   00000222   00000040
+  00000004   00000000   00000000   00000000
+  00000000   00000000   00000000   00000000
+  00000000   00000000   00000000   00000000
+Nature of termination:                   Normal         
+Runtime(Decimal):                        4739           
+TurnAroundTime(Decimal):                 22695          
+Execution Time(Decimal):                 4739           
+Page Fault Handling Time(Decimal):       5510           
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      88             
+Current value of the clock(Decimal):     57453          
+clock at load time(hex):                 def1           
+Clock at termination time(hex):          e06d           
+Number of chances at the CPU:            4              
+job Output(Hex):
+  00000003   00000003   00000005   00000000
+  00000005   00000002   00000007   00000023
+Nature of termination:                   Normal         
+Runtime(Decimal):                        120            
+TurnAroundTime(Decimal):                 380            
+Execution Time(Decimal):                 120            
+Page Fault Handling Time(Decimal):       380            
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      89             
+Current value of the clock(Decimal):     57938          
+clock at load time(hex):                 e06e           
+Clock at termination time(hex):          e252           
+Number of chances at the CPU:            7              
+job Output(Hex):
+  00000001   00000001   00000002   00000000
+  00000005   00000008   0000000d   00000015
+  00000022   00000037   00000059   00000090
+Nature of termination:                   Normal         
+Runtime(Decimal):                        305            
+TurnAroundTime(Decimal):                 484            
+Execution Time(Decimal):                 305            
+Page Fault Handling Time(Decimal):       485            
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      90             
+Current value of the clock(Decimal):     58089          
+clock at load time(hex):                 e253           
+Clock at termination time(hex):          e2e9           
+Number of chances at the CPU:            2              
+job Output(Hex):
+  00000000   00000000   00000000   00000037
+Nature of termination:                   Normal         
+Runtime(Decimal):                        151            
+TurnAroundTime(Decimal):                 150            
+Execution Time(Decimal):                 151            
+Page Fault Handling Time(Decimal):       530            
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      87             
+Current value of the clock(Decimal):     59383          
+clock at load time(hex):                 d8e2           
+Clock at termination time(hex):          e7f7           
+Number of chances at the CPU:            16             
+job Output(Hex):
+  00000001   00000002   00000000   00001d09
+  00000000   00000000   00000000   00000000
+  00000001   00000004   00000000   00002ee1
+Nature of termination:                   Normal         
+Runtime(Decimal):                        693            
+TurnAroundTime(Decimal):                 3861           
+Execution Time(Decimal):                 693            
+Page Fault Handling Time(Decimal):       1040           
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      92             
+Current value of the clock(Decimal):     59872          
+clock at load time(hex):                 e817           
+Clock at termination time(hex):          e9e0           
+Number of chances at the CPU:            6              
+job Output(Hex):
+  00000346   00000024   000002CD   000000AF
+Nature of termination:                   Normal         
+Runtime(Decimal):                        200            
+TurnAroundTime(Decimal):                 457            
+Execution Time(Decimal):                 200            
+Page Fault Handling Time(Decimal):       5205           
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                    93             
+Content of subQueue3:                    20             
+Content of subQueue4:                    55 24 91 48 27 
+Content of Blocked Queue:                               
+ID of current executing Job:             93             
+Memory Free:                             16             
+Memory Used:                             240            
+Current Degree of Multiprogramming:      7              
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      93             
+Current value of the clock(Decimal):     60209          
+clock at load time(hex):                 e9e1           
+Clock at termination time(hex):          eb31           
+Number of chances at the CPU:            3              
+job Output(Hex):
+  00000000   00000000   00000000   00000000
+Nature of termination:                   Normal         
+Runtime(Decimal):                        129            
+TurnAroundTime(Decimal):                 336            
+Execution Time(Decimal):                 129            
+Page Fault Handling Time(Decimal):       5210           
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      94             
+Current value of the clock(Decimal):     60332          
+clock at load time(hex):                 eb32           
+Clock at termination time(hex):          ebac           
+Number of chances at the CPU:            2              
+job Output(Hex):
+  00000000   00000000   00000000   00000000
+  00000000   00000000   00000000   00000000
+Nature of termination:                   Normal         
+Runtime(Decimal):                        42             
+TurnAroundTime(Decimal):                 122            
+Execution Time(Decimal):                 42             
+Page Fault Handling Time(Decimal):       5215           
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      95             
+Current value of the clock(Decimal):     60333          
+clock at load time(hex):                 eb3d           
+Clock at termination time(hex):          ebad           
+Number of chances at the CPU:            2              
+job Output(Hex):
+  00000078   00000000   00000000   00000000
+Nature of termination:                   Normal         
+Runtime(Decimal):                        75             
+TurnAroundTime(Decimal):                 112            
+Execution Time(Decimal):                 75             
+Page Fault Handling Time(Decimal):       5215           
+------------------------------------------------------
+
+**ERROR: JOBID(DEC):95 Code:20 Description:IO Exception
+------------------------------------------------------
+Completed Execution for jobID(DEC):      95             
+Current value of the clock(Decimal):     60334          
+clock at load time(hex):                 eb3d           
+Clock at termination time(hex):          ebae           
+Number of chances at the CPU:            3              
+job Output(Hex):
+Nature of termination:                   IO Exception   
+Runtime(Decimal):                        75             
+TurnAroundTime(Decimal):                 113            
+Execution Time(Decimal):                 75             
+Page Fault Handling Time(Decimal):       5215           
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      96             
+Current value of the clock(Decimal):     60499          
+clock at load time(hex):                 ebae           
+Clock at termination time(hex):          ec53           
+Number of chances at the CPU:            2              
+job Output(Hex):
+  00000000   00000000   00000000   00000037
+Nature of termination:                   Normal         
+Runtime(Decimal):                        151            
+TurnAroundTime(Decimal):                 165            
+Execution Time(Decimal):                 151            
+Page Fault Handling Time(Decimal):       5255           
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      97             
+Current value of the clock(Decimal):     61626          
+clock at load time(hex):                 ec54           
+Clock at termination time(hex):          f0ba           
+Number of chances at the CPU:            18             
+job Output(Hex):
+  00000001   00000002   00000003   00000003
+  00000002   00000002   00000003   00000006
+  00000003   00000004   00000004   80000003
+  00000004   00000006   00000003   00000007
+  00000005   00000006   00000055   00000055
+  00000006   00000004   00000002   80000006
+  00000000   00000004   00000007   00000000
+  00000001   00000001   00000001   00000000
+  00000002   00000003   00000007   00000000
+Nature of termination:                   Normal         
+Runtime(Decimal):                        459            
+TurnAroundTime(Decimal):                 1126           
+Execution Time(Decimal):                 459            
+Page Fault Handling Time(Decimal):       5335           
+------------------------------------------------------
+
+**ERROR: JOBID(DEC):99 Code:5 Description:Illegal Batch Character.
+------------------------------------------------------
+Completed Execution for jobID(DEC):      99             
+Current value of the clock(Decimal):     61680          
+clock at load time(hex):                 0              
+Clock at termination time(hex):          f0f0           
+Number of chances at the CPU:            0              
+job Output(Hex):
+Nature of termination:                   Illegal character
+Runtime(Decimal):                        0              
+TurnAroundTime(Decimal):                 61680          
+Execution Time(Decimal):                 0              
+Page Fault Handling Time(Decimal):       0              
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      100            
+Current value of the clock(Decimal):     61907          
+clock at load time(hex):                 f0f0           
+Clock at termination time(hex):          f1d3           
+Number of chances at the CPU:            3              
+job Output(Hex):
+  0000001c   00000000   00000000   00000000
+Nature of termination:                   Normal         
+Runtime(Decimal):                        88             
+TurnAroundTime(Decimal):                 227            
+Execution Time(Decimal):                 88             
+Page Fault Handling Time(Decimal):       35             
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      101            
+Current value of the clock(Decimal):     62222          
+clock at load time(hex):                 f1f0           
+Clock at termination time(hex):          f30e           
+Number of chances at the CPU:            4              
+job Output(Hex):
+  00000003   00000003   00000005   00000000
+  00000005   00000002   00000007   00000023
+Nature of termination:                   Normal         
+Runtime(Decimal):                        120            
+TurnAroundTime(Decimal):                 286            
+Execution Time(Decimal):                 120            
+Page Fault Handling Time(Decimal):       5520           
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      102            
+Current value of the clock(Decimal):     62379          
+clock at load time(hex):                 f30f           
+Clock at termination time(hex):          f3ab           
+Number of chances at the CPU:            2              
+job Output(Hex):
+  00000003   00000000   00000000   00000000
+Nature of termination:                   Normal         
+Runtime(Decimal):                        46             
+TurnAroundTime(Decimal):                 156            
+Execution Time(Decimal):                 46             
+Page Fault Handling Time(Decimal):       5530           
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      103            
+Current value of the clock(Decimal):     62667          
+clock at load time(hex):                 f3ac           
+Clock at termination time(hex):          f4cb           
+Number of chances at the CPU:            4              
+job Output(Hex):
+  00000005   0000000a   0000000c   00000008
+  0000000f   00000004   00000002   00000003
+Nature of termination:                   Normal         
+Runtime(Decimal):                        148            
+TurnAroundTime(Decimal):                 287            
+Execution Time(Decimal):                 148            
+Page Fault Handling Time(Decimal):       5560           
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                    27             
+Content of subQueue3:                                   
+Content of subQueue4:                    20 55 24 91 48 
+Content of Blocked Queue:                               
+ID of current executing Job:             27             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                    48             
+Content of subQueue4:                    27 20 55 24 91 
+Content of Blocked Queue:                               
+ID of current executing Job:             48             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                    91             
+Content of subQueue4:                    48 27 20 55 24 
+Content of Blocked Queue:                               
+ID of current executing Job:             91             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                    24             
+Content of subQueue4:                    91 48 27 20 55 
+Content of Blocked Queue:                               
+ID of current executing Job:             24             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                    55             
+Content of subQueue3:                                   
+Content of subQueue4:                    24 91 48 27 20 
+Content of Blocked Queue:                               
+ID of current executing Job:             55             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                    20             
+Content of subQueue4:                    55 24 91 48 27 
+Content of Blocked Queue:                               
+ID of current executing Job:             20             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                    20             
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    55 24 91 48 27 
+Content of Blocked Queue:                               
+ID of current executing Job:             20             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                    27             
+Content of subQueue3:                                   
+Content of subQueue4:                    20 55 24 91 48 
+Content of Blocked Queue:                               
+ID of current executing Job:             27             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                    48             
+Content of subQueue4:                    27 20 55 24 91 
+Content of Blocked Queue:                               
+ID of current executing Job:             48             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                    91             
+Content of subQueue4:                    48 27 20 55 24 
+Content of Blocked Queue:                               
+ID of current executing Job:             91             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                    24             
+Content of subQueue4:                    91 48 27 20 55 
+Content of Blocked Queue:                               
+ID of current executing Job:             24             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                    55             
+Content of subQueue4:                    24 91 48 27 20 
+Content of Blocked Queue:                               
+ID of current executing Job:             55             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    55 24 91 48 27 20 
+Content of Blocked Queue:                               
+ID of current executing Job:             55             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                    20             
+Content of subQueue3:                                   
+Content of subQueue4:                    55 24 91 48 27 
+Content of Blocked Queue:                               
+ID of current executing Job:             20             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                    27             
+Content of subQueue4:                    20 55 24 91 48 
+Content of Blocked Queue:                               
+ID of current executing Job:             27             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                    27             
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    20 55 24 91 48 
+Content of Blocked Queue:                               
+ID of current executing Job:             27             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                    48             
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    27 20 55 24 91 
+Content of Blocked Queue:                               
+ID of current executing Job:             48             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                    91             
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    48 27 20 55 24 
+Content of Blocked Queue:                               
+ID of current executing Job:             91             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                    24             
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    91 48 27 20 55 
+Content of Blocked Queue:                               
+ID of current executing Job:             24             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                    55             
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    24 91 48 27 20 
+Content of Blocked Queue:                               
+ID of current executing Job:             55             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                    20             
+Content of subQueue3:                                   
+Content of subQueue4:                    55 24 91 48 27 
+Content of Blocked Queue:                               
+ID of current executing Job:             20             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    20 55 24 91 48 27 
+Content of Blocked Queue:                               
+ID of current executing Job:             20             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                    27             
+Content of subQueue3:                                   
+Content of subQueue4:                    20 55 24 91 48 
+Content of Blocked Queue:                               
+ID of current executing Job:             27             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                    48             
+Content of subQueue4:                    27 20 55 24 91 
+Content of Blocked Queue:                               
+ID of current executing Job:             48             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                    91             
+Content of subQueue4:                    48 27 20 55 24 
+Content of Blocked Queue:                               
+ID of current executing Job:             91             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                    24             
+Content of subQueue4:                    91 48 27 20 55 
+Content of Blocked Queue:                               
+ID of current executing Job:             24             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                    55             
+Content of subQueue3:                                   
+Content of subQueue4:                    24 91 48 27 20 
+Content of Blocked Queue:                               
+ID of current executing Job:             55             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                    20             
+Content of subQueue4:                    55 24 91 48 27 
+Content of Blocked Queue:                               
+ID of current executing Job:             20             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                    20             
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    55 24 91 48 27 
+Content of Blocked Queue:                               
+ID of current executing Job:             20             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                    27             
+Content of subQueue4:                    20 55 24 91 48 
+Content of Blocked Queue:                               
+ID of current executing Job:             27             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    27 20 55 24 91 48 
+Content of Blocked Queue:                               
+ID of current executing Job:             27             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    48 27 20 55 24 91 
+Content of Blocked Queue:                               
+ID of current executing Job:             48             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    91 48 27 20 55 24 
+Content of Blocked Queue:                               
+ID of current executing Job:             91             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                    55             
+Content of subQueue4:                    24 91 48 27 20 
+Content of Blocked Queue:                               
+ID of current executing Job:             55             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    55 24 91 48 27 20 
+Content of Blocked Queue:                               
+ID of current executing Job:             55             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                    20             
+Content of subQueue3:                                   
+Content of subQueue4:                    55 24 91 48 27 
+Content of Blocked Queue:                               
+ID of current executing Job:             20             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                    27             
+Content of subQueue4:                    20 55 24 91 48 
+Content of Blocked Queue:                               
+ID of current executing Job:             27             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    27 20 55 24 91 48 
+Content of Blocked Queue:                               
+ID of current executing Job:             27             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    48 27 20 55 24 91 
+Content of Blocked Queue:                               
+ID of current executing Job:             48             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    91 48 27 20 55 24 
+Content of Blocked Queue:                               
+ID of current executing Job:             91             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    24 91 48 27 20 55 
+Content of Blocked Queue:                               
+ID of current executing Job:             24             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    55 24 91 48 27 20 
+Content of Blocked Queue:                               
+ID of current executing Job:             55             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                    20             
+Content of subQueue3:                                   
+Content of subQueue4:                    55 24 91 48 27 
+Content of Blocked Queue:                               
+ID of current executing Job:             20             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                    27             
+Content of subQueue4:                    20 55 24 91 48 
+Content of Blocked Queue:                               
+ID of current executing Job:             27             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                    27             
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    20 55 24 91 48 
+Content of Blocked Queue:                               
+ID of current executing Job:             27             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                    48             
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    27 20 55 24 91 
+Content of Blocked Queue:                               
+ID of current executing Job:             48             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                    91             
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    48 27 20 55 24 
+Content of Blocked Queue:                               
+ID of current executing Job:             91             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                    24             
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    91 48 27 20 55 
+Content of Blocked Queue:                               
+ID of current executing Job:             24             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                    55             
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    24 91 48 27 20 
+Content of Blocked Queue:                               
+ID of current executing Job:             55             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                    20             
+Content of subQueue3:                                   
+Content of subQueue4:                    55 24 91 48 27 
+Content of Blocked Queue:                               
+ID of current executing Job:             20             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    20 55 24 91 48 27 
+Content of Blocked Queue:                               
+ID of current executing Job:             20             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                    27             
+Content of subQueue3:                                   
+Content of subQueue4:                    20 55 24 91 48 
+Content of Blocked Queue:                               
+ID of current executing Job:             27             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                    48             
+Content of subQueue4:                    27 20 55 24 91 
+Content of Blocked Queue:                               
+ID of current executing Job:             48             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                    91             
+Content of subQueue4:                    48 27 20 55 24 
+Content of Blocked Queue:                               
+ID of current executing Job:             91             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                    24             
+Content of subQueue4:                    91 48 27 20 55 
+Content of Blocked Queue:                               
+ID of current executing Job:             24             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                    55             
+Content of subQueue3:                                   
+Content of subQueue4:                    24 91 48 27 20 
+Content of Blocked Queue:                               
+ID of current executing Job:             55             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                    20             
+Content of subQueue4:                    55 24 91 48 27 
+Content of Blocked Queue:                               
+ID of current executing Job:             20             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                    20             
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    55 24 91 48 27 
+Content of Blocked Queue:                               
+ID of current executing Job:             20             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                    27             
+Content of subQueue4:                    20 55 24 91 48 
+Content of Blocked Queue:                               
+ID of current executing Job:             27             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    27 20 55 24 91 48 
+Content of Blocked Queue:                               
+ID of current executing Job:             27             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    48 27 20 55 24 91 
+Content of Blocked Queue:                               
+ID of current executing Job:             48             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    91 48 27 20 55 24 
+Content of Blocked Queue:                               
+ID of current executing Job:             91             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                    55             
+Content of subQueue4:                    24 91 48 27 20 
+Content of Blocked Queue:                               
+ID of current executing Job:             55             
+Memory Free:                             48             
+Memory Used:                             208            
+Current Degree of Multiprogramming:      6              
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      20             
+Current value of the clock(Decimal):     694110         
+clock at load time(hex):                 8b4            
+Clock at termination time(hex):          a975e          
+Number of chances at the CPU:            2960           
+job Output(Hex):
+  00000000   0000000F   00000003   00000000
+  00000000   00000076   00000f31   00000000
+Nature of termination:                   Normal         
+Runtime(Decimal):                        155723         
+TurnAroundTime(Decimal):                 691882         
+Execution Time(Decimal):                 155723         
+Page Fault Handling Time(Decimal):       35             
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                    91             
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    48 27 55 24    
+Content of Blocked Queue:                               
+ID of current executing Job:             91             
+Memory Free:                             96             
+Memory Used:                             160            
+Current Degree of Multiprogramming:      5              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                    91             
+Content of subQueue4:                    48 27 55 24    
+Content of Blocked Queue:                               
+ID of current executing Job:             91             
+Memory Free:                             96             
+Memory Used:                             160            
+Current Degree of Multiprogramming:      5              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                    48             
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    27 55 24 91    
+Content of Blocked Queue:                               
+ID of current executing Job:             48             
+Memory Free:                             96             
+Memory Used:                             160            
+Current Degree of Multiprogramming:      5              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                    48             
+Content of subQueue3:                                   
+Content of subQueue4:                    27 55 24 91    
+Content of Blocked Queue:                               
+ID of current executing Job:             48             
+Memory Free:                             96             
+Memory Used:                             160            
+Current Degree of Multiprogramming:      5              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    27 55 24 91 48 
+Content of Blocked Queue:                               
+ID of current executing Job:             27             
+Memory Free:                             96             
+Memory Used:                             160            
+Current Degree of Multiprogramming:      5              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                    27             
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    55 24 91 48    
+Content of Blocked Queue:                               
+ID of current executing Job:             27             
+Memory Free:                             96             
+Memory Used:                             160            
+Current Degree of Multiprogramming:      5              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                    27             
+Content of subQueue3:                                   
+Content of subQueue4:                    55 24 91 48    
+Content of Blocked Queue:                               
+ID of current executing Job:             27             
+Memory Free:                             96             
+Memory Used:                             160            
+Current Degree of Multiprogramming:      5              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                    27             
+Content of subQueue4:                    55 24 91 48    
+Content of Blocked Queue:                               
+ID of current executing Job:             27             
+Memory Free:                             96             
+Memory Used:                             160            
+Current Degree of Multiprogramming:      5              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    55 24 91 48 27 
+Content of Blocked Queue:                               
+ID of current executing Job:             55             
+Memory Free:                             96             
+Memory Used:                             160            
+Current Degree of Multiprogramming:      5              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                    55             
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    24 91 48 27    
+Content of Blocked Queue:                               
+ID of current executing Job:             55             
+Memory Free:                             96             
+Memory Used:                             160            
+Current Degree of Multiprogramming:      5              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                    55             
+Content of subQueue4:                    24 91 48 27    
+Content of Blocked Queue:                               
+ID of current executing Job:             55             
+Memory Free:                             96             
+Memory Used:                             160            
+Current Degree of Multiprogramming:      5              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                    24             
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    91 48 27 55    
+Content of Blocked Queue:                               
+ID of current executing Job:             24             
+Memory Free:                             96             
+Memory Used:                             160            
+Current Degree of Multiprogramming:      5              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                    24             
+Content of subQueue3:                                   
+Content of subQueue4:                    91 48 27 55    
+Content of Blocked Queue:                               
+ID of current executing Job:             24             
+Memory Free:                             96             
+Memory Used:                             160            
+Current Degree of Multiprogramming:      5              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                    24             
+Content of subQueue4:                    91 48 27 55    
+Content of Blocked Queue:                               
+ID of current executing Job:             24             
+Memory Free:                             96             
+Memory Used:                             160            
+Current Degree of Multiprogramming:      5              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                    91             
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    48 27 55 24    
+Content of Blocked Queue:                               
+ID of current executing Job:             91             
+Memory Free:                             96             
+Memory Used:                             160            
+Current Degree of Multiprogramming:      5              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                    91             
+Content of subQueue4:                    48 27 55 24    
+Content of Blocked Queue:                               
+ID of current executing Job:             91             
+Memory Free:                             96             
+Memory Used:                             160            
+Current Degree of Multiprogramming:      5              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                    48             
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    27 55 24 91    
+Content of Blocked Queue:                               
+ID of current executing Job:             48             
+Memory Free:                             96             
+Memory Used:                             160            
+Current Degree of Multiprogramming:      5              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                    48             
+Content of subQueue3:                                   
+Content of subQueue4:                    27 55 24 91    
+Content of Blocked Queue:                               
+ID of current executing Job:             48             
+Memory Free:                             96             
+Memory Used:                             160            
+Current Degree of Multiprogramming:      5              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    27 55 24 91 48 
+Content of Blocked Queue:                               
+ID of current executing Job:             27             
+Memory Free:                             96             
+Memory Used:                             160            
+Current Degree of Multiprogramming:      5              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                    27             
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    55 24 91 48    
+Content of Blocked Queue:                               
+ID of current executing Job:             27             
+Memory Free:                             96             
+Memory Used:                             160            
+Current Degree of Multiprogramming:      5              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                    27             
+Content of subQueue3:                                   
+Content of subQueue4:                    55 24 91 48    
+Content of Blocked Queue:                               
+ID of current executing Job:             27             
+Memory Free:                             96             
+Memory Used:                             160            
+Current Degree of Multiprogramming:      5              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                    27             
+Content of subQueue4:                    55 24 91 48    
+Content of Blocked Queue:                               
+ID of current executing Job:             27             
+Memory Free:                             96             
+Memory Used:                             160            
+Current Degree of Multiprogramming:      5              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    55 24 91 48 27 
+Content of Blocked Queue:                               
+ID of current executing Job:             55             
+Memory Free:                             96             
+Memory Used:                             160            
+Current Degree of Multiprogramming:      5              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                    55             
+Content of subQueue3:                                   
+Content of subQueue4:                    24 91 48 27    
+Content of Blocked Queue:                               
+ID of current executing Job:             55             
+Memory Free:                             96             
+Memory Used:                             160            
+Current Degree of Multiprogramming:      5              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                    55             
+Content of subQueue4:                    24 91 48 27    
+Content of Blocked Queue:                               
+ID of current executing Job:             55             
+Memory Free:                             96             
+Memory Used:                             160            
+Current Degree of Multiprogramming:      5              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    24 91 48 27 55 
+Content of Blocked Queue:                               
+ID of current executing Job:             24             
+Memory Free:                             96             
+Memory Used:                             160            
+Current Degree of Multiprogramming:      5              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                    24             
+Content of subQueue3:                                   
+Content of subQueue4:                    91 48 27 55    
+Content of Blocked Queue:                               
+ID of current executing Job:             24             
+Memory Free:                             96             
+Memory Used:                             160            
+Current Degree of Multiprogramming:      5              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                    24             
+Content of subQueue4:                    91 48 27 55    
+Content of Blocked Queue:                               
+ID of current executing Job:             24             
+Memory Free:                             96             
+Memory Used:                             160            
+Current Degree of Multiprogramming:      5              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                    91             
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    48 27 55 24    
+Content of Blocked Queue:                               
+ID of current executing Job:             91             
+Memory Free:                             96             
+Memory Used:                             160            
+Current Degree of Multiprogramming:      5              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                    91             
+Content of subQueue4:                    48 27 55 24    
+Content of Blocked Queue:                               
+ID of current executing Job:             91             
+Memory Free:                             96             
+Memory Used:                             160            
+Current Degree of Multiprogramming:      5              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    48 27 55 24 91 
+Content of Blocked Queue:                               
+ID of current executing Job:             48             
+Memory Free:                             96             
+Memory Used:                             160            
+Current Degree of Multiprogramming:      5              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                    48             
+Content of subQueue3:                                   
+Content of subQueue4:                    27 55 24 91    
+Content of Blocked Queue:                               
+ID of current executing Job:             48             
+Memory Free:                             96             
+Memory Used:                             160            
+Current Degree of Multiprogramming:      5              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                    48             
+Content of subQueue4:                    27 55 24 91    
+Content of Blocked Queue:                               
+ID of current executing Job:             48             
+Memory Free:                             96             
+Memory Used:                             160            
+Current Degree of Multiprogramming:      5              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                    27             
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    55 24 91 48    
+Content of Blocked Queue:                               
+ID of current executing Job:             27             
+Memory Free:                             96             
+Memory Used:                             160            
+Current Degree of Multiprogramming:      5              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                    27             
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    48 55 91 24    
+Content of Blocked Queue:                               
+ID of current executing Job:             27             
+Memory Free:                             96             
+Memory Used:                             160            
+Current Degree of Multiprogramming:      5              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                    27             
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    48 91 55 24    
+Content of Blocked Queue:                               
+ID of current executing Job:             27             
+Memory Free:                             96             
+Memory Used:                             160            
+Current Degree of Multiprogramming:      5              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                    27             
+Content of subQueue3:                                   
+Content of subQueue4:                    48 91 55 24    
+Content of Blocked Queue:                               
+ID of current executing Job:             27             
+Memory Free:                             96             
+Memory Used:                             160            
+Current Degree of Multiprogramming:      5              
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      24             
+Current value of the clock(Decimal):     1067114        
+clock at load time(hex):                 c6e            
+Clock at termination time(hex):          10486a         
+Number of chances at the CPU:            5056           
+job Output(Hex):
+  00000000   0000000F   00000003   00000000
+  00000000   00000076   00000f31   00000000
+  800530ed   00054321   00000000   00001234
+  00000000   00000017   00000093   00000000
+Nature of termination:                   Normal         
+Runtime(Decimal):                        282931         
+TurnAroundTime(Decimal):                 1063932        
+Execution Time(Decimal):                 282931         
+Page Fault Handling Time(Decimal):       121350         
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                    55             
+Content of subQueue4:                    91 27 48       
+Content of Blocked Queue:                               
+ID of current executing Job:             55             
+Memory Free:                             128            
+Memory Used:                             128            
+Current Degree of Multiprogramming:      4              
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      48             
+Current value of the clock(Decimal):     1073295        
+clock at load time(hex):                 3874           
+Clock at termination time(hex):          10608f         
+Number of chances at the CPU:            5056           
+job Output(Hex):
+  00000000   0000000F   00000003   00000000
+  00000000   00000076   00000f31   00000000
+  800530ed   00054321   00000000   00001234
+  00000000   00000017   00000093   00000000
+Nature of termination:                   Normal         
+Runtime(Decimal):                        282931         
+TurnAroundTime(Decimal):                 1058843        
+Execution Time(Decimal):                 282931         
+Page Fault Handling Time(Decimal):       122350         
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      55             
+Current value of the clock(Decimal):     1074294        
+clock at load time(hex):                 41af           
+Clock at termination time(hex):          106476         
+Number of chances at the CPU:            5056           
+job Output(Hex):
+  00000000   0000000F   00000003   00000000
+  00000000   00000076   00000f31   00000000
+  800530ed   00054321   00000000   00001234
+  00000000   00000017   00000093   00000000
+Nature of termination:                   Normal         
+Runtime(Decimal):                        282931         
+TurnAroundTime(Decimal):                 1057479        
+Execution Time(Decimal):                 282931         
+Page Fault Handling Time(Decimal):       122740         
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                    91             
+Content of subQueue4:                    27             
+Content of Blocked Queue:                               
+ID of current executing Job:             91             
+Memory Free:                             192            
+Memory Used:                             64             
+Current Degree of Multiprogramming:      2              
+------------------------------------------------------
+
+Completed Execution for jobID(DEC):      91             
+Current value of the clock(Decimal):     1086885        
+clock at load time(hex):                 e2ea           
+Clock at termination time(hex):          1095a5         
+Number of chances at the CPU:            5056           
+job Output(Hex):
+  00000000   0000000F   00000003   00000000
+  00000000   00000076   00000f31   00000000
+  800530ed   00054321   00000000   00001234
+  00000000   00000017   00000093   00000000
+Nature of termination:                   Normal         
+Runtime(Decimal):                        282931         
+TurnAroundTime(Decimal):                 1028795        
+Execution Time(Decimal):                 282931         
+Page Fault Handling Time(Decimal):       121745         
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                    27             
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                                   
+Content of Blocked Queue:                               
+ID of current executing Job:             27             
+Memory Free:                             224            
+Memory Used:                             32             
+Current Degree of Multiprogramming:      1              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                    27             
+Content of subQueue3:                                   
+Content of subQueue4:                                   
+Content of Blocked Queue:                               
+ID of current executing Job:             27             
+Memory Free:                             224            
+Memory Used:                             32             
+Current Degree of Multiprogramming:      1              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                    27             
+Content of subQueue4:                                   
+Content of Blocked Queue:                               
+ID of current executing Job:             27             
+Memory Free:                             224            
+Memory Used:                             32             
+Current Degree of Multiprogramming:      1              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    27             
+Content of Blocked Queue:                               
+ID of current executing Job:             27             
+Memory Free:                             224            
+Memory Used:                             32             
+Current Degree of Multiprogramming:      1              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                    27             
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                                   
+Content of Blocked Queue:                               
+ID of current executing Job:             27             
+Memory Free:                             224            
+Memory Used:                             32             
+Current Degree of Multiprogramming:      1              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                    27             
+Content of subQueue3:                                   
+Content of subQueue4:                                   
+Content of Blocked Queue:                               
+ID of current executing Job:             27             
+Memory Free:                             224            
+Memory Used:                             32             
+Current Degree of Multiprogramming:      1              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                    27             
+Content of subQueue4:                                   
+Content of Blocked Queue:                               
+ID of current executing Job:             27             
+Memory Free:                             224            
+Memory Used:                             32             
+Current Degree of Multiprogramming:      1              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    27             
+Content of Blocked Queue:                               
+ID of current executing Job:             27             
+Memory Free:                             224            
+Memory Used:                             32             
+Current Degree of Multiprogramming:      1              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                    27             
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                                   
+Content of Blocked Queue:                               
+ID of current executing Job:             27             
+Memory Free:                             224            
+Memory Used:                             32             
+Current Degree of Multiprogramming:      1              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                    27             
+Content of subQueue3:                                   
+Content of subQueue4:                                   
+Content of Blocked Queue:                               
+ID of current executing Job:             27             
+Memory Free:                             224            
+Memory Used:                             32             
+Current Degree of Multiprogramming:      1              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                    27             
+Content of subQueue4:                                   
+Content of Blocked Queue:                               
+ID of current executing Job:             27             
+Memory Free:                             224            
+Memory Used:                             32             
+Current Degree of Multiprogramming:      1              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                    27             
+Content of Blocked Queue:                               
+ID of current executing Job:             27             
+Memory Free:                             224            
+Memory Used:                             32             
+Current Degree of Multiprogramming:      1              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                    27             
+Content of subQueue2:                                   
+Content of subQueue3:                                   
+Content of subQueue4:                                   
+Content of Blocked Queue:                               
+ID of current executing Job:             27             
+Memory Free:                             224            
+Memory Used:                             32             
+Current Degree of Multiprogramming:      1              
+------------------------------------------------------
+
+Status of the the system:
+Content of subQueue1:                                   
+Content of subQueue2:                    27             
+Content of subQueue3:                                   
+Content of subQueue4:                                   
+Content of Blocked Queue:                               
+ID of current executing Job:             27             
+Memory Free:                             224            
+Memory Used:                             32             
+Current Degree of Multiprogramming:      1              
+------------------------------------------------------
+
+**ERROR: JOBID(DEC):27 Code:22 Description:Suspected Infinite Job
+------------------------------------------------------
+Completed Execution for jobID(DEC):      27             
+Current value of the clock(Decimal):     1224826        
+clock at load time(hex):                 174b           
+Clock at termination time(hex):          12b07a         
+Number of chances at the CPU:            7999           
+job Output(Hex):
+Nature of termination:                   Suspected Infinite Job
+Runtime(Decimal):                        399961         
+TurnAroundTime(Decimal):                 1218863        
+Execution Time(Decimal):                 399961         
+Page Fault Handling Time(Decimal):       360            
+------------------------------------------------------
+
+Report for Batch:
+Current Clock Value:(HEX)                             12b07a         
+Mean user job run time:(DEC)                          45.94          
+Mean user job I/O time:(DEC)                          45.94          
+Mean user job execution time:(DEC)                    8840.68        
+Mean user job time in the System:(DEC)                12126.99       
+Mean user job page fault handling time(DEC):          4961.49        
+Total CPU idle time(HEX):                             8              
+Time lost due to abnormally terminated jobs(HEX):     0              
+Number of jobs that terminated normally(DEC):         84             
+Number of jobs that terminated abnormally(DEC):       17             
+Total Time lost due to Suspected Infinite jobs(HEX):  400001         
+ID's of jobs considered Infinite(DEC):                [27]           
+Total Number of page faults(HEX):                     1877e          
+percentage of Disk Occupied(DEC):                     93             
+Number of holes(DEC):                                 6              
+average size of holes(DEC):                           1              
+average size of holes(DEC):                           1              
+Maximum size of subqueue 1(DEC):                      7              
+Maximum size of subqueue 2:(DEC)                      8              
+Maximum size of subqueue 3:(DEC)                      7              
+Maximum size of subqueue 4:(DEC)                      7              
+Average size of subqueue 1(DEC)                       0.23           
+Average size of subqueue 2(DEC)                       0.27           
+Average size of subqueue 3(DEC)                       0.23           
+Average size of subqueue 4(DEC)                       4.50           

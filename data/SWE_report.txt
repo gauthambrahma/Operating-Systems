@@ -1,0 +1,80 @@
+Software engineering issues
+==========================================
+For Phase III the challenge faced was in managing the context with respect to looping the 
+test batch 12 times where I had to selectively manage certain values while resetting the 
+state of the other values which had to be done using the best practices without anti-patterns.
+One of the biggest challenge with the project overall was the debugging. This is due 
+the complexity of the project.For example an error in Indexing caused my previous 
+process to write in the wrong memory locations which impacted the execution of 
+current process. The tradition debugging using IDE i.e.., using breakpoints and 
+step into/over/out functions were not useful as I would had to go back thousands of 
+execution steps backward sometimes to find the root cause. Whenever an issue occurred
+the progress file was taken as an aid for debugging which made the process much more simple.
+
+Another challenge faced during the designing was breaking down stage 2 into steps and 
+following a modular approach in development. First disk was developed and tested then 
+the memory manager was loaded and the scheduling responsibilities were tested. Finally the
+CPU underwent minor changes(for reading and writing) to complete the changes.
+
+The status of the operating system which was decided to be generated at an interval of 
+2500 CPU clock cycles as it seemed a perfect balance between not generating a large trace
+file with unnecessary data and not printing enough status to miss out on what is going on 
+in the CPU.
+
+General approach to the problem
+===========================================
+I made changes incrementally according to the requirement and tested
+as I did in Phase II.I used the test cases that I did in Phase I to 
+make sure that the changes does'nt break anything. I constantly backed 
+up my files so that I can go back to the previous version whenever 
+something breaks.
+
+List of the utilities being used
+===========================================
+- Debugger: Java debugger
+- Integrated build tool: Eclipse Mars
+- grep commands for bulk complexities
+
+Bulk complexities of simulation program
+===========================================
+        Metric			Value
+-------------------------------	--------
+    Total Lines	   	         3755
+    	-Comment Lines		 443
+    	-Code Lines          	 3169    
+    	-Blank Lines		 161
+    	-declarations		 377
+    Number of decisions		 322
+    Number of functions		  74
+    Number of classes		   9
+
+Approximate break-down of the time spent in the design, 
+coding, and testing
+=============================================
+Task                Time spent
+----------------------------------------
+Conceptualization           2 day
+Requirements analysis       1 day
+Detailed specification of 
+software requirements       2 days
+Design  Software Design     1 day
+Implementation Programming  8 days
+Testing and bug fixing      2 days
+Deployment                  2 hour
+----------------------------------------
+Total                       17 days (approx.)
+-----------------------------------------
+Simulation portability
+==============================================
+This simulation was developed using Java language. Java program is platform 
+independent because it needs java runtime to execute java byte code. Java runtime 
+can be installed in many systems including Windows x64/x86, Solaris SPARC x64/x86, 
+Mac OS X x64, Linux x64/x86. Other platforms can use java runtime from open source 
+project named OpenJDK which developer can build java runtime from source. 
+
+Implementation language
+==============================================
+I chose Java because it is  platform independent, and it 
+also has a rich built in libraries. For statically typed language,
+the IDE can support full re-factoring that is a very convenient feature. 
+IDE of my choice is Eclipse IDE Mars Release (4.5.1)
